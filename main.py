@@ -1,27 +1,27 @@
 from rdflib import Graph, URIRef, Literal
+from graph_manager import GraphManager
 
 # Create a new graph
-g = Graph()
-
-# Define the nodes and predicate
-foo = Literal("foo")
-bar = Literal("bar")
-baz = Literal("baz")
-edge = Literal("edge")
+gm = GraphManager()
 
 # Add triples to the graph
-g.add((foo, edge, bar)) # foo -> bar
-g.add((bar, edge, baz)) # bar -> baz
-g.add((baz, edge, foo)) # baz -> foo
+gm.add("foo", "edge", "bar")
+gm.add("bar", "edge", "baz")
+gm.add("baz", "edge", "foo")
 
-q = """
-SELECT ?x
+response = gm.query("""    
+SELECT ?subject ?predicate ?object
 WHERE {
-    ?x <edge> ?y
+    ?subject ?predicate ?object .
+    FILTER (STR(?predicate) = "edge")
 }
-"""
+""")
+
+print(response.serialize().decode("utf-8"))
 
 # Serialize the graph to a string in Turtle format
-print(g.serialize(format="turtle"))
+# response.serialize(destination="graph.ttl")
 
-g.serialize(destination="graph.ttl", format="turtle")
+gm.save()
+
+# g.serialize(destination="graph.ttl", format="turtle")
