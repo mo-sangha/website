@@ -1,1 +1,2 @@
-rdflib
+psycopg2
+python-dotenv
