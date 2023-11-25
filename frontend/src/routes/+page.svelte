@@ -19,7 +19,7 @@
 		return { chapterTitle, slogan };
 	};
 
-	let isRunning = $state(false);
+	let isRunning = $state(true);
 
 	let sloganInterval = $state(0);
 	let slogan = $state(getRandomSlogan());
@@ -40,15 +40,17 @@
 	}
 </script>
 
-<div>
-	{#if isRunning}
-		<!-- a button that says start -->
-		<div>{slogan.slogan}</div>
-		<div>{slogan.chapterTitle}</div>
-		<button on:click={() => stopSession()}>Stop</button>
-	{:else}
-		<button on:click={() => startSession()}>Start</button>
-	{/if}
+<div class="flex flex-col h-full w-full justify-around items-center p-12">
+	<div class="flex flex-col max-w-5xl gap-4">
+		{#if isRunning}
+			<div class="text-2xl sm:text-3xl md:text-4xl lg:text-4xl text-primary">{slogan.slogan}</div>
+			<div class="italic opacity-40">{slogan.chapterTitle}</div>
+			<button class="btn btn-ghost w-fit opacity-40" on:click={() => stopSession()}>Stop</button>
+		{:else}
+			<div class="text-4xl">Lojong Timer</div>
+			<button class="btn btn-primary w-fit" on:click={() => startSession()}> Start </button>
+		{/if}
+	</div>
 </div>
 
 <style lang="postcss">
