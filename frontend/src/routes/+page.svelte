@@ -25,7 +25,41 @@
 	let pageDuration = $state(60);
 	let slogan = $state(getRandomSlogan());
 
+	function goFullScreen() {
+		const elem = document.documentElement;
+		if (elem.requestFullscreen) {
+			elem.requestFullscreen();
+			// @ts-expect-error - typescript doesn't know about requestFullscreen
+		} else if (elem.webkitRequestFullscreen) {
+			/* Safari */
+			// @ts-expect-error - typescript doesn't know about requestFullscreen
+			elem.webkitRequestFullscreen();
+			// @ts-expect-error - typescript doesn't know about requestFullscreen
+		} else if (elem.msRequestFullscreen) {
+			/* IE11 */
+			// @ts-expect-error - typescript doesn't know about requestFullscreen
+			elem.msRequestFullscreen();
+		}
+	}
+
+	function stopFullScreen() {
+		if (document.exitFullscreen) {
+			document.exitFullscreen();
+			// @ts-expect-error - typescript doesn't know about exitFullscreen
+		} else if (document.webkitExitFullscreen) {
+			/* Safari */
+			// @ts-expect-error - typescript doesn't know about exitFullscreen
+			document.webkitExitFullscreen();
+			// @ts-expect-error - typescript doesn't know about exitFullscreen
+		} else if (document.msExitFullscreen) {
+			/* IE11 */
+			// @ts-expect-error - typescript doesn't know about exitFullscreen
+			document.msExitFullscreen();
+		}
+	}
+
 	function startSession() {
+		goFullScreen();
 		isRunning = true;
 
 		// @ts-expect-error - typescript doesn't know about setInterval
@@ -36,6 +70,7 @@
 	}
 
 	function stopSession() {
+		stopFullScreen();
 		clearInterval(sloganInterval);
 		isRunning = false;
 	}
