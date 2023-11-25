@@ -40,14 +40,16 @@
 	}
 </script>
 
-{#if isRunning}
-	<!-- a button that says start -->
-	<div>{slogan.slogan}</div>
-	<div>{slogan.chapterTitle}</div>
-	<button on:click={() => stopSession()}>Stop</button>
-{:else}
-	<button on:click={() => startSession()}>Start</button>
-{/if}
+<div>
+	{#if isRunning}
+		<!-- a button that says start -->
+		<div>{slogan.slogan}</div>
+		<div>{slogan.chapterTitle}</div>
+		<button on:click={() => stopSession()}>Stop</button>
+	{:else}
+		<button on:click={() => startSession()}>Start</button>
+	{/if}
+</div>
 
 <style lang="postcss">
 	:global(html) {
