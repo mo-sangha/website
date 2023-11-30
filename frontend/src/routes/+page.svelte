@@ -1,7 +1,7 @@
 <div class="hero min-h-[50vh] bg-base-200">
 	<div class="hero-content text-center">
 		<div class="max-w-md">
-			<h1 class="text-5xl font-bold">For all beings.</h1>
+			<h1 class="text-5xl font-bold">Daily Meditation.</h1>
 			<div class="py-6 text-left mx-auto w-fit">
 				<ul class="list-disc">
 					<li>Twice a day: 9am and 9pm ET.</li>

@@ -6,9 +6,9 @@
 	inject({ mode: dev ? 'development' : 'production' });
 </script>
 
-<div class="h-full w-full flex flex-col px-4">
+<div class="h-full w-full flex flex-col">
 	<!-- Navbar -->
-	<div class="navbar bg-base-100">
+	<div class="navbar bg-base-100 p-gutter">
 		<div class="flex-1">
 			<a class="text-xl font-bold" href="/">Meditation Online</a>
 		</div>

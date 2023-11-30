@@ -10,7 +10,7 @@
 	];
 </script>
 
-<div class="flex flex-col gap-4">
+<div class="flex flex-col gap-4 p-gutter">
 	{#each tools as tool}
 		<div class="card outline max-w-xs">
 			<div class="card-body">
