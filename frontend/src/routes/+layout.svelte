@@ -16,6 +16,7 @@
 			<ul class="menu menu-horizontal px-1">
 				<li><a href="/tools">Tools</a></li>
 				<li><a href="/about">About</a></li>
+				<li><a href="/join">Join</a></li>
 			</ul>
 		</div>
 	</div>
