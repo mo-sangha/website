@@ -4,7 +4,7 @@
 
 @layer utilities {
     .p-gutter {
-        @apply px-4;
+        @apply px-24;
     }
 }
 
@@ -14,6 +14,6 @@
     }
 
     .page-content-section {
-        @apply flex flex-col w-6/12 gap-8 p-gutter;
+        @apply flex flex-col gap-8 p-gutter;
     }
 }
