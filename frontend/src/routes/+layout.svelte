@@ -25,4 +25,15 @@
 	<div class="flex-grow">
 		<slot />
 	</div>
+
+	<!-- Footer -->
+	<footer class="footer p-10 mt-10 bg-neutral text-neutral-content p-gutter">
+		<nav>
+			<header class="footer-title">Site Map</header>
+			<a href="/" class="link link-hover">Home</a>
+			<a href="/tools" class="link link-hover">Tools</a>
+			<a href="/about" class="link link-hover">About</a>
+			<a href="/join" class="link link-hover">Join</a>
+		</nav>
+	</footer>
 </div>

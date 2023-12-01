@@ -1,21 +1,59 @@
 <script>
-	import Countdown from '../components/countdown.svelte';
+	import Citation from '../components/Citation.svelte';
+	import Countdown from '../components/Countdown.svelte';
 </script>
 
-<div class="hero min-h-[50vh] bg-primary bg-opacity-10">
-	<div class="hero-content text-center">
-		<div class="max-w-md flex flex-col gap-4">
-			<h1 class="text-4xl font-bold">Live Meditation Sessions</h1>
-			<div class="text-left mx-auto w-fit">
-				<ul class="list-disc">
-					<li>Free to join online. All are welcome.</li>
-					<li>Twice a day: 9am and 9pm ET.</li>
-					<li>Led by Lama Dawai Gocha.</li>
-					<li>Established 2013.</li>
-				</ul>
+<div class="flex flex-col gap-8">
+	<div class="hero min-h-[50vh] bg-primary bg-opacity-10">
+		<div class="hero-content text-center">
+			<div class="max-w-md flex flex-col gap-4">
+				<h1 class="text-4xl font-bold">Live Meditation Sessions</h1>
+				<div class="text-left mx-auto w-fit">
+					<ul class="list-disc">
+						<li>Free to join online. All are welcome.</li>
+						<li>Twice a day: 9am and 9pm ET.</li>
+						<li>Led by Lama Dawai Gocha.</li>
+						<li>Established 2013.</li>
+					</ul>
+				</div>
+				<a href="/get-started" class="btn btn-primary">Click here to get started</a>
+				<Countdown />
 			</div>
-			<a href="/get-started" class="btn btn-primary">Click here to get started</a>
-			<Countdown />
 		</div>
+	</div>
+	<div class="page-content-section w-1/2 mx-auto">
+		<h2 class="text-2xl">Benefits of Meditation & Mindfulness</h2>
+		<p>
+			Recent news events have shown that change is the only constant. Meditation and mindfulness can
+			offer a helpful way to live with this constant change. <Citation
+				href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7287297/">NIH</Citation
+			>. Many different researchers have analyzed and summarized the effects of meditation on
+			behavior and brain imaging in clinical and non-clinical subjects, and have demonstrated
+			significant physical and mental health benefits. <Citation
+				href="https://www.mdpi.com/1660-4601/18/24/13150#:~:text=The%20Mindfulness%20journal%20ranked%20first,occurrence%20keywords"
+				>MDPI</Citation
+			>
+		</p>
+	</div>
+	<div class="page-content-section w-1/2 mx-auto">
+		<h2 class="text-2xl">Our Meditation & Mindfulness Practice</h2>
+		<p>
+			We use formal meditation practices that come from authentic Buddhist lineage.<Citation
+				href="/about"
+				isLocal>About</Citation
+			> The practices we use include mindfulness of breathing, compassion or loving kindness-focused
+			meditation, the use of mantras or phrases as the focus for meditation, and many others. We also
+			share readings and knowledge from authentic Buddhist tradition, especially Dzogchen and Vajrayana.
+		</p>
+	</div>
+	<div class="page-content-section w-1/2 mx-auto">
+		<h2 class="text-2xl">Free since 2013</h2>
+		<p>
+			We have been meditating online since 2013, having started off on Reddit's /r/Buddhism
+			subreddit as "redditations." Our online sessions are safe spaces where you can join us from
+			anywhere in the world, completely for free. There is no expectation of donations or payment of
+			any kind. We are a community of people who are interested in meditation and mindfulness, and
+			we're happy to have you join us.
+		</p>
 	</div>
 </div>
