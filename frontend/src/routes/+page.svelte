@@ -21,7 +21,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="page-content-section w-1/2 mx-auto">
+	<div class="page-content-section w-full md:w-1/2 mx-auto">
 		<h2 class="text-2xl">Benefits of Meditation & Mindfulness</h2>
 		<p>
 			Recent news events have shown that change is the only constant. Meditation and mindfulness can
@@ -35,7 +35,7 @@
 			>
 		</p>
 	</div>
-	<div class="page-content-section w-1/2 mx-auto">
+	<div class="page-content-section w-full md:w-1/2 mx-auto">
 		<h2 class="text-2xl">Our Meditation & Mindfulness Practice</h2>
 		<p>
 			We use formal meditation practices that come from authentic Buddhist lineage.<Citation
@@ -46,7 +46,7 @@
 			share readings and knowledge from authentic Buddhist tradition, especially Dzogchen and Vajrayana.
 		</p>
 	</div>
-	<div class="page-content-section w-1/2 mx-auto">
+	<div class="page-content-section w-full md:w-1/2 mx-auto">
 		<h2 class="text-2xl">Free since 2013</h2>
 		<p>
 			We have been meditating online since 2013, having started off on Reddit's /r/Buddhism
