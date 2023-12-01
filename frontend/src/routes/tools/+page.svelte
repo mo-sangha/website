@@ -12,11 +12,11 @@
 
 <div class="flex flex-col gap-4 p-gutter">
 	{#each tools as tool}
-		<div class="card outline max-w-xs">
+		<div class="card outline max-w-xs outline-primary">
 			<div class="card-body">
 				<div class="card-title">{tool.title}</div>
 				<p>{tool.description}</p>
-				<a class="btn btn-sm" href={tool.link}>Go</a>
+				<a class="btn btn-sm btn-primary" href={tool.link}>Go</a>
 			</div>
 		</div>
 	{/each}

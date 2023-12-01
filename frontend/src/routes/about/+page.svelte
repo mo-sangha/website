@@ -20,37 +20,18 @@
 
 		<p>Please come and go as you feel, there are no rules about attendance.</p>
 	</div>
-	<h2 class="page-header">Lama Dawai Gocha</h2>
-	<div class="page-content-section flex flex-row">
-		<div class="flex flex-col gap-8">
-			<p>I grew up Buddhist. My mom raised me in the Nyingma Buddhist lineage.</p>
-
-			<p>
-				For me, meditation is learning to play your own music. Our emotions and mental tendencies
-				get strummed like guitar strings. I even started calling emotions the “E String” and
-				cognitive activity the “C String.”
-			</p>
-
-			<p>
-				But the problem for me was that I had no control over the music I was playing. So meditation
-				became about settling into the “body of the guitar,” coming out of the dense dimension of
-				preoccupation with the “strings” and settling into a more natural state. From there I feel
-				open and free to choose what gets played on the guitar and I can let creativity, celebration
-				and joy manifest as my song!
-			</p>
-		</div>
-		<div class="flex flex-row gap-2 mx-auto max-w-3xl">
+	<div class="flex flex-row gap-2 max-w-4xl p-gutter">
+		<div class="outline outline-primary flex flex-col sm:flex-row p-4 gap-4">
 			<img
 				src="https://thetattooedbuddha.com/wp-content/uploads/2017/07/Dawai-150x150.jpg"
 				alt="Album"
 				class="max-w-[120px] max-h-[120px] aspect-square"
 			/>
 			<div class="text-sm">
-				Dawai Gocha is practitioner and monk in a Nyingma Dzogchen lineage of Tibetan Buddhism. He
-				first took refuge with His Holiness Penor Rinpoche when he was a boy and has continued to
-				practice Buddhism for over 20 years. He has received teachings from H.H. Dalai Lama, H.H.
-				Penor Rinpoche, Mingyur Rinpoche and others; receiving empowerments and instructions on many
-				different Buddhist practices.
+				Dawai Gocha is a Nyingma Dzogchen yogi of Tibetan Buddhism. He first took refuge with His
+				Holiness Penor Rinpoche when he was a boy and has continued to practice Buddhism for over 20
+				years. He has received teachings from H.H. Dalai Lama, H.H. Penor Rinpoche, Mingyur Rinpoche
+				and others; receiving empowerments and instructions on many different Buddhist practices.
 			</div>
 		</div>
 	</div>
