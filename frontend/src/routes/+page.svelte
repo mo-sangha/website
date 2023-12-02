@@ -16,7 +16,7 @@
 						<li>Led by <a class="link-hover text-secondary" href="/about">dawai</a>.</li>
 					</ul>
 				</div>
-				<a href="/get-started" class="btn btn-primary">Click here to get started</a>
+				<a href="/join" class="btn btn-primary">Join the Video Call</a>
 				<Countdown />
 			</div>
 		</div>
