@@ -20,7 +20,16 @@
 
 		<p>Please come and go as you feel, there are no rules about attendance.</p>
 	</div>
-	<div class="flex flex-row gap-2 max-w-4xl p-gutter">
+	<h2 class="page-header">About Dawai Gocha</h2>
+	<div class="page-content-section">
+		<p>
+			Dawai Gocha is a Nyingma Dzogchen yogi of Tibetan Buddhism. He first took refuge with His
+			Holiness Penor Rinpoche when he was a boy and has continued to practice Buddhism for over 20
+			years. He has received teachings from H.H. Dalai Lama, H.H. Penor Rinpoche, Mingyur Rinpoche
+			and others; receiving empowerments and instructions on many different Buddhist practices.
+		</p>
+	</div>
+	<!-- <div class="flex flex-row gap-2 max-w-4xl p-gutter">
 		<div class="outline outline-secondary flex flex-col sm:flex-row p-4 gap-4">
 			<img
 				src="https://thetattooedbuddha.com/wp-content/uploads/2017/07/Dawai-150x150.jpg"
@@ -34,5 +43,5 @@
 				and others; receiving empowerments and instructions on many different Buddhist practices.
 			</div>
 		</div>
-	</div>
+	</div> -->
 </div>
