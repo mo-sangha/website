@@ -2,6 +2,10 @@
 export default {
   content: ['./src/**/*.{html,js,svelte,ts}'],
   theme: {
+    fontFamily: {
+      display: ['Patua One', 'serif'],
+      sans: ['Inter', 'sans-serif']
+    },
     extend: {},
   },
   plugins: [require("daisyui")],

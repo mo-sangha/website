@@ -7,7 +7,7 @@
 	<div class="hero min-h-[50vh] bg-primary text-base-content">
 		<div class="hero-content text-center">
 			<div class="max-w-md flex flex-col gap-4">
-				<h1 class="text-4xl font-bold">Live Meditation Sessions</h1>
+				<h1 class="text-4xl font-bold font-display">Live Meditation Sessions</h1>
 				<div class="text-left mx-auto w-fit">
 					<ul class="list-disc">
 						<li>Free to join online. All are welcome.</li>
@@ -16,13 +16,13 @@
 						<li>Led by <a class="link-hover text-secondary" href="/about">dawai</a>.</li>
 					</ul>
 				</div>
-				<a href="/join" class="btn btn-accent">Join the Video Call</a>
+				<a href="/join" class="btn btn-accent font-display">Join the Video Call</a>
 				<Countdown />
 			</div>
 		</div>
 	</div>
 	<div class="page-content-section w-full md:w-1/2 mx-auto">
-		<h2 class="text-2xl">Benefits of Meditation & Mindfulness</h2>
+		<h2 class="text-2xl font-display">Benefits of Meditation & Mindfulness</h2>
 		<p>
 			Recent news events have shown that change is the only constant. Meditation and mindfulness can
 			offer a helpful way to live with this constant change. <Citation
@@ -36,7 +36,7 @@
 		</p>
 	</div>
 	<div class="page-content-section w-full md:w-1/2 mx-auto">
-		<h2 class="text-2xl">Our Meditation & Mindfulness Practice</h2>
+		<h2 class="text-2xl font-display">Our Meditation & Mindfulness Practice</h2>
 		<p>
 			We use formal meditation practices that come from authentic Buddhist lineage.<Citation
 				href="/about"
@@ -47,7 +47,7 @@
 		</p>
 	</div>
 	<div class="page-content-section w-full md:w-1/2 mx-auto">
-		<h2 class="text-2xl">Free since 2013</h2>
+		<h2 class="text-2xl font-display">Free since 2013</h2>
 		<p>
 			We have been meditating online since 2013, having started off on Reddit's /r/Buddhism
 			subreddit as "redditations." Our online sessions are safe spaces where you can join us from
