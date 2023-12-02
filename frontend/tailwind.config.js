@@ -7,6 +7,30 @@ export default {
   plugins: [require("daisyui")],
   daisyui: {
     themes: [
+      {
+        dzogchen: {
+          "primary": "#c0edff",   // dark blue from the image's background
+          "secondary": "#dc2626", // similar to primary but slightly different
+          "accent": "#3730a3",    // another dark blue variant
+          "neutral": "#ff00ff",   // a more vibrant dark blue
+          "base-100": "#e0f2fe",  // darkest blue identified
+          "info": "#67e8f9",
+          "success": "#41d888",
+          "warning": "#ffcc00",
+          "error": "#ff0000",
+          "text-base-content": "#a9dbf9", // white text
+
+          "--rounded-box": "1rem",          // border radius rounded-box utility class, used in card and other large boxes
+          "--rounded-btn": "0.5rem",        // border radius rounded-btn utility class, used in buttons and similar elements
+          "--rounded-badge": "1.9rem",      // border radius rounded-badge utility class, used in badges and similar
+          "--animation-btn": "0.25s",       // duration of animation when you click on a button
+          "--animation-input": "0.2s",      // duration of animation for inputs like checkbox, toggle, radio, etc
+          "--btn-focus-scale": "0.95",      // scale transform of a button when you focus on it
+          "--border-btn": "1px",            // border width of buttons
+          "--tab-border": "1px",            // border width of tabs
+          "--tab-radius": "0.5rem"          // border radius of tabs
+        }
+      },
       "light",
       "dark",
       "cupcake",

@@ -8,16 +8,14 @@
 
 <div class="h-full w-full flex flex-col">
 	<!-- Navbar -->
-	<div class="navbar bg-base-100 p-gutter">
+	<div class="navbar bg-accent text-primary p-gutter">
 		<div class="flex-1">
 			<a class="text-xl font-bold" href="/">Meditation Online</a>
 		</div>
-		<div class="flex-none">
-			<ul class="menu menu-horizontal px-1">
-				<li><a href="/tools">Tools</a></li>
-				<li><a href="/about">About</a></li>
-				<li><a href="/join">Join</a></li>
-			</ul>
+		<div class="flex-none flex flex-row gap-4">
+			<a href="/tools">Tools</a>
+			<a href="/about">About</a>
+			<a href="/join">Join</a>
 		</div>
 	</div>
 
@@ -27,7 +25,7 @@
 	</div>
 
 	<!-- Footer -->
-	<footer class="footer p-10 mt-10 bg-neutral text-neutral-content p-gutter">
+	<footer class="footer p-10 mt-10 bg-primary text-neutral-content p-gutter">
 		<nav>
 			<header class="footer-title">Site Map</header>
 			<a href="/" class="link link-hover">Home</a>

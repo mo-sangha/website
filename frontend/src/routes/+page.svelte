@@ -4,7 +4,7 @@
 </script>
 
 <div class="flex flex-col gap-8">
-	<div class="hero min-h-[50vh] bg-primary bg-opacity-10">
+	<div class="hero min-h-[50vh] bg-primary text-base-content">
 		<div class="hero-content text-center">
 			<div class="max-w-md flex flex-col gap-4">
 				<h1 class="text-4xl font-bold">Live Meditation Sessions</h1>
@@ -16,7 +16,7 @@
 						<li>Led by <a class="link-hover text-secondary" href="/about">dawai</a>.</li>
 					</ul>
 				</div>
-				<a href="/join" class="btn btn-primary">Join the Video Call</a>
+				<a href="/join" class="btn btn-accent">Join the Video Call</a>
 				<Countdown />
 			</div>
 		</div>

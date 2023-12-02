@@ -21,7 +21,7 @@
 		<p>Please come and go as you feel, there are no rules about attendance.</p>
 	</div>
 	<div class="flex flex-row gap-2 max-w-4xl p-gutter">
-		<div class="outline outline-primary flex flex-col sm:flex-row p-4 gap-4">
+		<div class="outline outline-secondary flex flex-col sm:flex-row p-4 gap-4">
 			<img
 				src="https://thetattooedbuddha.com/wp-content/uploads/2017/07/Dawai-150x150.jpg"
 				alt="Album"
