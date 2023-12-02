@@ -12,8 +12,8 @@
 					<ul class="list-disc">
 						<li>Free to join online. All are welcome.</li>
 						<li>Twice a day: 9am and 9pm ET.</li>
-						<li>Led by Lama Dawai Gocha.</li>
 						<li>Established 2013.</li>
+						<li>Led by <a class="link-hover text-secondary" href="/about">dawai</a>.</li>
 					</ul>
 				</div>
 				<a href="/get-started" class="btn btn-primary">Click here to get started</a>
