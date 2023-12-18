@@ -1,7 +1,9 @@
 <div class="h-full w-full flex flex-col gap-4">
-	<h2 class="page-header">About the group</h2>
+	<div class="page-header">
+		<h2 class="w-full md:w-1/2 mx-auto">About the group</h2>
+	</div>
 	<div class="page-content-section">
-		<p>
+		<p class="w-full md:w-1/2 mx-auto">
 			This group is intended to be all inclusive and modern in the sense of creating a new kind of
 			space. Every person can have a voice and a kind of ownership within the group. Traditionally
 			it's known that every sentient being is ultimately a Buddha so in that sense we can empower
@@ -10,7 +12,7 @@
 			traditional methodology.
 		</p>
 
-		<p>
+		<p class="w-full md:w-1/2 mx-auto">
 			The lineage and transmission is very important with practices like Dzogchen, Mahamudra and
 			Zen. Getting empowerments from living recognized masters, following your teachers advice, and
 			doing any preliminary practices is recommended. If the practitioner is ready then they can
@@ -18,11 +20,15 @@
 			awareness.
 		</p>
 
-		<p>Please come and go as you feel, there are no rules about attendance.</p>
+		<p class="w-full md:w-1/2 mx-auto">
+			Please come and go as you feel, there are no rules about attendance.
+		</p>
 	</div>
-	<h2 class="page-header">About Dawai Gocha</h2>
+	<div class="page-header">
+		<h2 class="w-full md:w-1/2 mx-auto">About Dawai Gocha</h2>
+	</div>
 	<div class="page-content-section">
-		<p>
+		<p class="w-full md:w-1/2 mx-auto">
 			Dawai Gocha is a Nyingma Dzogchen yogi of Tibetan Buddhism. He first took refuge with His
 			Holiness Penor Rinpoche when he was a boy and has continued to practice Buddhism for over 20
 			years. He has received teachings from H.H. Dalai Lama, H.H. Penor Rinpoche, Mingyur Rinpoche
