@@ -13,7 +13,7 @@ export default {
     themes: [
       {
         dzogchen: {
-          "primary": "#4130a3",   // dark blue from the image's background
+          "primary": "#0f3781",   // dark blue from the image's background
           "secondary": "#dc2626", // similar to primary but slightly different
           "accent": "#ff60ea",    // another dark blue variant
           "neutral": "#ff00ff",   // a more vibrant dark blue

@@ -5,7 +5,7 @@
 
 @layer utilities {
     .p-gutter {
-        @apply px-4 md:px-24;
+        @apply px-[10vw] md:px-[30vw] mx-auto w-full;
     }
 }
 
