@@ -3,7 +3,7 @@ export default {
   content: ['./src/**/*.{html,js,svelte,ts}'],
   theme: {
     fontFamily: {
-      display: ['Patua One', 'serif'],
+      display: ['Gupter', 'Times New Roman', 'serif'],
       sans: ['Inter', 'sans-serif']
     },
     extend: {},
@@ -13,11 +13,13 @@ export default {
     themes: [
       {
         dzogchen: {
-          "primary": "#c0edff",   // dark blue from the image's background
+          "primary": "#4130a3",   // dark blue from the image's background
           "secondary": "#dc2626", // similar to primary but slightly different
-          "accent": "#3730a3",    // another dark blue variant
+          "accent": "#ff60ea",    // another dark blue variant
           "neutral": "#ff00ff",   // a more vibrant dark blue
-          "base-100": "#e0f2fe",  // darkest blue identified
+          "base-100": "#dcedf3",  // darkest blue identified
+          "base-200": "#c4e3ee",  // darkest blue identified
+          "base-300": "#87cfe9",  // darkest blue identified
           "info": "#67e8f9",
           "success": "#41d888",
           "warning": "#ffcc00",

@@ -4,7 +4,7 @@
 </script>
 
 <div class="flex flex-col gap-8">
-	<div class="hero min-h-[50vh] bg-primary text-base-content">
+	<div class="hero min-h-[50vh] bg-gradient-to-b from-base-300 to-base-100 text-base-content">
 		<div class="hero-content text-center">
 			<div class="max-w-md flex flex-col gap-4">
 				<h1 class="text-4xl font-bold font-display">Live Meditation Sessions</h1>
@@ -16,44 +16,51 @@
 						<li>Led by <a class="link-hover text-secondary" href="/about">dawai</a>.</li>
 					</ul>
 				</div>
-				<a href="/join" class="btn btn-accent font-display">Join the Video Call</a>
+				<a
+					href="https://meet.jit.si/MeditationOnline"
+					rel="noopener nofollow noreferrer"
+					target="_blank"
+					class="btn btn-primary">Click here to join</a
+				>
 				<Countdown />
 			</div>
 		</div>
 	</div>
-	<div class="page-content-section w-full md:w-1/2 mx-auto">
-		<h2 class="text-2xl font-display">Benefits of Meditation & Mindfulness</h2>
-		<p>
-			Recent news events have shown that change is the only constant. Meditation and mindfulness can
-			offer a helpful way to live with this constant change. <Citation
-				href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7287297/">NIH</Citation
-			>. Many different researchers have analyzed and summarized the effects of meditation on
-			behavior and brain imaging in clinical and non-clinical subjects, and have demonstrated
-			significant physical and mental health benefits. <Citation
-				href="https://www.mdpi.com/1660-4601/18/24/13150#:~:text=The%20Mindfulness%20journal%20ranked%20first,occurrence%20keywords"
-				>MDPI</Citation
-			>
-		</p>
-	</div>
-	<div class="page-content-section w-full md:w-1/2 mx-auto">
-		<h2 class="text-2xl font-display">Our Meditation & Mindfulness Practice</h2>
-		<p>
-			We use formal meditation practices that come from authentic Buddhist lineage.<Citation
-				href="/about"
-				isLocal>About</Citation
-			> The practices we use include mindfulness of breathing, compassion or loving kindness-focused
-			meditation, the use of mantras or phrases as the focus for meditation, and many others. We also
-			share readings and knowledge from authentic Buddhist tradition, especially Dzogchen and Vajrayana.
-		</p>
-	</div>
-	<div class="page-content-section w-full md:w-1/2 mx-auto">
-		<h2 class="text-2xl font-display">Free since 2013</h2>
-		<p>
-			We have been meditating online since 2013, having started off on Reddit's /r/Buddhism
-			subreddit as "redditations." Our online sessions are safe spaces where you can join us from
-			anywhere in the world, completely for free. There is no expectation of donations or payment of
-			any kind. We are a community of people who are interested in meditation and mindfulness, and
-			we're happy to have you join us.
-		</p>
+	<div class="flex flex-col gap-8 pt-6 pb-20">
+		<div class="page-content-section w-full md:w-1/2 mx-auto">
+			<h2 class="text-2xl font-display">Benefits of Meditation & Mindfulness</h2>
+			<p>
+				Recent news events have shown that change is the only constant. Meditation and mindfulness
+				can offer a helpful way to live with this constant change. <Citation
+					href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7287297/">NIH</Citation
+				>. Many different researchers have analyzed and summarized the effects of meditation on
+				behavior and brain imaging in clinical and non-clinical subjects, and have demonstrated
+				significant physical and mental health benefits. <Citation
+					href="https://www.mdpi.com/1660-4601/18/24/13150#:~:text=The%20Mindfulness%20journal%20ranked%20first,occurrence%20keywords"
+					>MDPI</Citation
+				>
+			</p>
+		</div>
+		<div class="page-content-section w-full md:w-1/2 mx-auto">
+			<h2 class="text-2xl font-display">Our Meditation & Mindfulness Practice</h2>
+			<p>
+				We use formal meditation practices that come from authentic Buddhist lineage.<Citation
+					href="/about"
+					isLocal>About</Citation
+				> The practices we use include mindfulness of breathing, compassion or loving kindness-focused
+				meditation, the use of mantras or phrases as the focus for meditation, and many others. We also
+				share readings and knowledge from authentic Buddhist tradition, especially Dzogchen and Vajrayana.
+			</p>
+		</div>
+		<div class="page-content-section w-full md:w-1/2 mx-auto">
+			<h2 class="text-2xl font-display">Free since 2013</h2>
+			<p>
+				We have been meditating online since 2013, having started off on Reddit's /r/Buddhism
+				subreddit as "redditations." Our online sessions are safe spaces where you can join us from
+				anywhere in the world, completely for free. There is no expectation of donations or payment
+				of any kind. We are a community of people who are interested in meditation and mindfulness,
+				and we're happy to have you join us.
+			</p>
+		</div>
 	</div>
 </div>

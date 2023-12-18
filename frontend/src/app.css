@@ -11,7 +11,7 @@
 
 @layer components {
     .page-header {
-        @apply py-4 text-2xl font-bold p-gutter bg-primary bg-opacity-20 font-display;
+        @apply py-4 text-2xl font-bold p-gutter bg-gradient-to-tl from-base-200 to-base-100 font-display;
     }
 
     .page-content-section {
