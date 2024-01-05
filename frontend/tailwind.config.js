@@ -15,7 +15,7 @@ export default {
         dzogchen: {
           "primary": "#080067",   // dark blue from the image's background
           "secondary": "#dc2626", // similar to primary but slightly different
-          "accent": "#ff60ea",    // another dark blue variant
+          "accent": "#00d1ff",    // another dark blue variant
           "neutral": "#ff00ff",   // a more vibrant dark blue
           "base-100": "#dcedf3",  // darkest blue identified
           "base-200": "#c4e3ee",  // darkest blue identified
