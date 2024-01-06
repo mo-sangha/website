@@ -3,17 +3,7 @@
 	import TopbarNavLink from './TopbarNavLink.svelte';
 	import type { NavLink } from './types';
 
-	const links: NavLink[] = [
-		{ name: 'Home', href: '/' },
-		{
-			name: 'About',
-			children: [
-				{ name: 'Dawai Gocha', href: '/about/dawai-gocha' },
-				{ name: 'Our Lineage', href: '/about/our-lineage' },
-				{ name: 'Our Group', href: '/about/our-group' }
-			]
-		}
-	];
+	export let links: NavLink[];
 </script>
 
 <div class="navbar bg-primary text-primary-content p-gutter">

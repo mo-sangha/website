@@ -25,7 +25,7 @@
 					<li>Free to join online. All are welcome.</li>
 					<li>Twice a day: 9am and 9pm ET.</li>
 					<li>Established 2013.</li>
-					<li>Led by <a class="link-hover text-secondary" href="/about">dawai</a>.</li>
+					<li>Led by <a class="link-hover text-secondary" href="/about/dawai-gocha">dawai</a>.</li>
 				</ul>
 			</div>
 			<a
@@ -56,8 +56,8 @@
 			<h2 class="text-2xl font-display">Our Meditation & Mindfulness Practice</h2>
 			<p>
 				We use formal meditation practices that come from authentic Buddhist lineage.<Citation
-					href="/about"
-					isLocal>About</Citation
+					href="/about/our-lineage"
+					isLocal>Our Lineage</Citation
 				> The practices we use include mindfulness of breathing, compassion or loving kindness-focused
 				meditation, the use of mantras or phrases as the focus for meditation, and many others. We also
 				share readings and knowledge from authentic Buddhist tradition, especially Dzogchen and Vajrayana.
