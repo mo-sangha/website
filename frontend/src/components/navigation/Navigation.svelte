@@ -26,7 +26,7 @@
 		<div class="drawer-side">
 			<label for="meditationonline-nav-drawer" aria-label="close sidebar" class="drawer-overlay"
 			></label>
-			<ul class="w-60 p-6 min-h-full bg-base-200 text-base-content flex flex-col">
+			<ul class="w-60 p-6 min-h-full bg-base-200 text-base-content flex flex-col gap-4">
 				<li class="">
 					<label for="meditationonline-nav-drawer" aria-label="close sidebar" class="link">
 						Close
