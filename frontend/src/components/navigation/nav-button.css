@@ -1,0 +1,7 @@
+.menu summary:active {
+    @apply bg-inherit text-inherit;
+}
+
+.nav-button {
+    @apply btn btn-sm btn-ghost w-fit outline-2 hover:outline hover:outline-base-100 focus:outline-base-100;
+}
