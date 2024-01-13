@@ -8,6 +8,13 @@
 	const links: NavLink[] = [
 		{ name: 'Home', href: '/' },
 		{
+			name: 'Contact',
+			children: [
+				{ name: 'Get In Touch', href: '/contact/get-in-touch' },
+				{ name: 'Giving (Dana)', href: '/contact/giving' },
+			]
+		},
+		{
 			name: 'About',
 			children: [
 				{ name: 'Dawai Gocha', href: '/about/dawai-gocha' },

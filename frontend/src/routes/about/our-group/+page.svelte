@@ -19,7 +19,7 @@
 
 		<p>
 			The lineage and transmission is very important with practices like Dzogchen, Mahamudra and
-			Zen. Our group is led by <a class="link-hover text-secondary" href="/about/dawai-gocha"
+			Zen. Our group is hosted by <a class="link-hover text-secondary" href="/about/dawai-gocha"
 				>dawai</a
 			>, who is a Getting empowerments from living recognized masters, following your teachers
 			advice, and doing any preliminary practices is recommended. If the practitioner is ready then

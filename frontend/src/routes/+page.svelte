@@ -22,10 +22,10 @@
 			</div>
 			<div class="text-left mx-auto w-fit">
 				<ul class="list-disc">
-					<li>Free to join online. All are welcome.</li>
+					<li>Always free. All are welcome.</li>
 					<li>Twice a day: 9am and 9pm ET.</li>
 					<li>Established 2013.</li>
-					<li>Led by <a class="link-hover text-secondary" href="/about/dawai-gocha">dawai</a>.</li>
+					<li>Hosted by <a class="link-hover text-secondary" href="/about/dawai-gocha">dawai</a>.</li>
 				</ul>
 			</div>
 			<a

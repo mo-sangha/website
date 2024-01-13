@@ -1,6 +1,6 @@
 <script lang="ts">
 	export let src: string;
-	export let caption: string;
+	export let caption: string | undefined = undefined;
 </script>
 
 <figure class="w-fit">
