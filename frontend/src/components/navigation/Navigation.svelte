@@ -17,17 +17,18 @@
 </script>
 
 <div class="navbar bg-primary text-primary-content p-gutter">
-	<div class="flex-1">
-		<a class="text-xl font-bold" href="/">Meditation Online</a>
+	<div class="flex-1 gap-2">
+		<img src="/favicon-32x32.png" alt="" class="inline-block w-fit object-contain h-7" />
+		<a class="text-xl font-bold" href="/"> Meditation Online </a>
 	</div>
 	<!-- full menu -->
-	<div class="flex-none flex-row gap-4 hidden lg:flex">
+	<div class="flex-none flex-row gap-4 hidden xl:flex">
 		{#each links as link}
 			<TopbarNavLink {link} />
 		{/each}
 	</div>
 	<!-- Drawer -->
-	<div class="drawer drawer-end lg:hidden w-fit z-50">
+	<div class="drawer drawer-end xl:hidden w-fit z-50">
 		<input
 			id="meditationonline-nav-drawer"
 			type="checkbox"
