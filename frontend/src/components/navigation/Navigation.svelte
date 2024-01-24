@@ -17,10 +17,10 @@
 </script>
 
 <div class="navbar bg-primary text-primary-content p-gutter">
-	<div class="flex-1 gap-2">
-		<img src="/favicon-32x32.png" alt="" class="inline-block w-fit object-contain h-7" />
-		<a class="text-xl font-bold" href="/"> Meditation Online </a>
-	</div>
+	<a class="text-xl font-bold flex-1 gap-3" href="/"
+		><img src="/favicon-32x32.png" alt="" class="inline-block w-fit object-contain h-7" /> Meditation
+		Online
+	</a>
 	<!-- full menu -->
 	<div class="flex-none flex-row gap-4 hidden xl:flex">
 		{#each links as link}
