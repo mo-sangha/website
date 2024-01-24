@@ -19,7 +19,7 @@
 			class:underline={isActive(child, $page)}
 			aria-label="close sidebar"
 			on:click={handleOnclick}
-			on:touchend={handleOnclick}
+			on:touchstart={handleOnclick}
 		>
 			{link.name} -> {child.name}
 		</a>
@@ -31,7 +31,7 @@
 		class:underline={isActive(link, $page)}
 		aria-label="close sidebar"
 		on:click={handleOnclick}
-		on:touchend={handleOnclick}
+		on:touchstart={handleOnclick}
 	>
 		{link.name}
 	</a>
