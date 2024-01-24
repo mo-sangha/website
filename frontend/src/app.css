@@ -2,19 +2,18 @@
 @tailwind components;
 @tailwind utilities;
 
-
 @layer utilities {
-    .p-gutter {
-        @apply px-[10vw] md:px-[30vw] mx-auto w-full;
-    }
+	.p-gutter {
+		@apply px-[10vw] md:px-[30vw] mx-auto w-full;
+	}
 }
 
 @layer components {
-    .page-header {
-        @apply py-4 text-2xl font-bold p-gutter bg-base-300 font-display;
-    }
+	.page-header {
+		@apply py-4 text-2xl font-bold p-gutter bg-base-300 font-display;
+	}
 
-    .page-content-section {
-        @apply flex flex-col gap-8 p-gutter;
-    }
+	.page-content-section {
+		@apply flex flex-col gap-8 p-gutter;
+	}
 }

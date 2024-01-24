@@ -25,7 +25,9 @@
 					<li>Always free. All are welcome.</li>
 					<li>Twice a day: 9am and 9pm ET.</li>
 					<li>Established 2013.</li>
-					<li>Hosted by <a class="link-hover text-secondary" href="/about/dawai-gocha">dawai</a>.</li>
+					<li>
+						Hosted by <a class="link-hover text-secondary" href="/about/dawai-gocha">dawai</a>.
+					</li>
 				</ul>
 			</div>
 			<a
