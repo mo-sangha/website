@@ -22,28 +22,28 @@
 		</p>
 		<div class="flex flex-col gap-4">
 			<div class="font-display text-2xl">How to give Dana to Meditation Online.</div>
-			<p>
-				Thank you for your generosity in considering Dana for Meditation Online. Meditation Online
-				is for the benefit of all sentient beings and will remain free regardless of donation
-				provided.
-			</p>
-			<p>
-				<a
-					href="https://www.paypal.com/paypalme/dawaigocha"
-					target="_blank"
-					class="py-3 px-5 round rounded-md bg-base-300 text-base-content hover:bg-primary transition-colors hover:text-primary-content font-bold object-contain flex flex-row w-fit gap-2 items-center shadow-sm hover:shadow-md"
-				>
-					<img src="/favicon-32x32.png" alt="" class="inline-block w-fit object-contain h-7" />
-					<span class="w-full"> Donate via PayPal </span>
-				</a>
-			</p>
 
-			<div class="flex flex-col 2xl:flex-row-reverse 2xl:justify-end gap-4">
-				<div class="flex flex-col h-full">
+			<div class="flex flex-col xl:flex-row-reverse 2xl:justify-end gap-4">
+				<div class="flex flex-col h-full gap-2">
+					<p>
+						Thank you for your generosity in considering Dana for Meditation Online. Meditation
+						Online is for the benefit of all sentient beings and will remain free regardless of
+						donation provided.
+					</p>
 					<ul class="list-disc flex flex-col md:pl-6">
 						<li>No donation is required or mandatory.</li>
 						<li>Funds are used for the group's Dharma activities and dawai's living expenses.</li>
 					</ul>
+					<p>
+						<a
+							href="https://www.paypal.com/paypalme/dawaigocha"
+							target="_blank"
+							class="py-3 px-5 round rounded-md bg-base-300 text-base-content hover:bg-primary transition-colors hover:text-primary-content font-bold object-contain flex flex-row w-fit gap-2 items-center shadow-sm hover:shadow-md"
+						>
+							<img src="/favicon-32x32.png" alt="" class="inline-block w-fit object-contain h-7" />
+							<span class="w-full"> Donate via PayPal </span>
+						</a>
+					</p>
 				</div>
 				<Photo src="/photo-begging-bowl.jpg" />
 			</div>
