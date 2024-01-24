@@ -4,6 +4,13 @@
 	import type { NavLink } from './types';
 
 	export let links: NavLink[];
+	export let drawerRef: HTMLInputElement;
+
+	const handleNavDrawerItemClicked = () => {
+		if (drawerRef.checked) {
+			drawerRef.checked = false;
+		}
+	};
 </script>
 
 <div class="navbar bg-primary text-primary-content p-gutter">
@@ -18,7 +25,12 @@
 	</div>
 	<!-- Drawer -->
 	<div class="drawer drawer-end lg:hidden w-fit z-50">
-		<input id="meditationonline-nav-drawer" type="checkbox" class="drawer-toggle" />
+		<input
+			id="meditationonline-nav-drawer"
+			type="checkbox"
+			class="drawer-toggle"
+			bind:this={drawerRef}
+		/>
 		<div class="drawer-content">
 			<!-- Page content here -->
 			<label for="meditationonline-nav-drawer" class="drawer-button nav-button">☰</label>
@@ -33,7 +45,7 @@
 					</label>
 				</li>
 				{#each links as link}
-					<SideDrawerNavLink {link} />
+					<SideDrawerNavLink {link} onClick={handleNavDrawerItemClicked} />
 				{/each}
 			</ul>
 		</div>

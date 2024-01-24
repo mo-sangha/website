@@ -21,10 +21,10 @@
 			The lineage and transmission is very important with practices like Dzogchen, Mahamudra and
 			Zen. Our group is hosted by <a class="link-hover text-secondary" href="/about/dawai-gocha"
 				>dawai</a
-			>, who is a Getting empowerments from living recognized masters, following your teachers
-			advice, and doing any preliminary practices is recommended. If the practitioner is ready then
-			they can begin awareness practices which, in a modern sense, can start with an introduction to
-			awareness.
+			>, who has gotten empowerments, transmission, and pointing out instructions from living
+			recognized masters. Following your teachers advice and doing any preliminary practices is
+			recommended. If the practitioner is ready then they can begin Dzogchen which, in a modern
+			sense, can start with an introduction to the nature of mind.
 		</p>
 
 		<p>Please come and go as you feel, there are no rules about attendance.</p>
