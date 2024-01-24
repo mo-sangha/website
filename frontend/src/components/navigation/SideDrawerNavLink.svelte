@@ -1,37 +1,34 @@
 <script lang="ts">
-	import type { NavLink } from './types';
+	import type { NavLink, NavLinkBranch, NavLinkLeaf } from './types';
 	import { page } from '$app/stores';
 	import './nav-button.css';
 	import { isActive } from './nav-utils';
 
 	export let link: NavLink;
-	export let onClick: () => void;
+	export let onClick: (url: string) => void;
 
-	const handleOnclick = (e: Event) => {
-		onClick();
+	const handleOnclick = (url: string) => {
+		onClick(url);
 	};
 </script>
 
-{#if 'children' in link}
+{#if link.type === 'branch'}
 	{#each link.children as child}
 		<a
 			href={child.href}
 			class:underline={isActive(child, $page)}
 			aria-label="close sidebar"
-			on:click={handleOnclick}
-			on:touchstart={handleOnclick}
+			on:click={() => handleOnclick(child.href)}
 		>
 			{link.name} -> {child.name}
 		</a>
 	{/each}
-{:else}
+{:else if link.type === 'leaf'}
 	<a
 		href={link.href}
+		on:click={() => handleOnclick((link as NavLinkLeaf).href)}
 		class=""
 		class:underline={isActive(link, $page)}
-		aria-label="close sidebar"
-		on:click={handleOnclick}
-		on:touchstart={handleOnclick}
 	>
 		{link.name}
 	</a>

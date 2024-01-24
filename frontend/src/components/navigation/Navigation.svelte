@@ -2,14 +2,17 @@
 	import SideDrawerNavLink from './SideDrawerNavLink.svelte';
 	import TopbarNavLink from './TopbarNavLink.svelte';
 	import type { NavLink } from './types';
+	import { goto } from '$app/navigation';
 
 	export let links: NavLink[];
-	export let drawerRef: HTMLInputElement;
+	let drawerRef: HTMLInputElement;
 
-	const handleNavDrawerItemClicked = () => {
+	const handleNavDrawerItemClicked = (targetUrl: string) => {
 		if (drawerRef.checked) {
 			drawerRef.checked = false;
 		}
+
+		goto(targetUrl);
 	};
 </script>
 
