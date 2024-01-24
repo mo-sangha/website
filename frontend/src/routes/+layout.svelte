@@ -1,11 +1,8 @@
 <script lang="ts">
 	import '../app.css';
 	import { dev } from '$app/environment';
-	import { inject } from '@vercel/analytics';
 	import Navigation from '../components/navigation/Navigation.svelte';
 	import { links } from './navLinks';
-
-	inject({ mode: dev ? 'development' : 'production' });
 </script>
 
 <div class="h-full w-full flex flex-col justify-between">
