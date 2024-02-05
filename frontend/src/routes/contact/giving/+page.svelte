@@ -14,11 +14,13 @@
 			spiritual family.
 		</p>
 		<p>
-			Dana given to the Meditation Online community offers vital support to dawai, a dedicated
-			Tibetan Dzogchen Yogi residing off grid on the Taos Mesa, New Mexico. Having vowed to always
-			give Dharma as a gift, your generosity helps sustain his daily needs but also helps many other
-			beings. Please know he is deeply grateful for the connection and support, all help ultimately
-			benefits the spread of meditation and a path to true freedom of mind.
+			Dana given to the Meditation Online community offers vital support to <a
+				href="/about/lama-dawai-gocha"
+				class="link link-hover text-secondary">Lama Dawai Gocha</a
+			>. Having vowed to always give Dharma as a gift, your generosity helps sustain his daily needs
+			but also helps many other beings. Please know he is deeply grateful for the connection and
+			support, all help ultimately benefits the spread of meditation and a path to true freedom of
+			mind.
 		</p>
 		<div class="flex flex-col gap-4">
 			<div class="font-display text-2xl">How to give Dana to Meditation Online.</div>
