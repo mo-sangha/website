@@ -15,7 +15,7 @@
 		</p>
 		<h3 class="font-display text-2xl">Ways to keep in touch.</h3>
 		<p>
-			You can contact dawai directly by sending an email to <a
+			You can contact Lama Dawai Gocha directly by sending an email to <a
 				href="mailto:dawaigocha108@gmail.com"
 				class="link-hover text-secondary">dawaigocha108@gmail.com</a
 			>. We have also recently started a

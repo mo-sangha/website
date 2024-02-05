@@ -32,7 +32,9 @@
 					</p>
 					<ul class="list-disc flex flex-col md:pl-6">
 						<li>No donation is required or mandatory.</li>
-						<li>Funds are used for the group's Dharma activities and dawai's living expenses.</li>
+						<li>
+							Funds are used for the group's Dharma activities and Lama Dawai's living expenses.
+						</li>
 					</ul>
 					<p>
 						<a

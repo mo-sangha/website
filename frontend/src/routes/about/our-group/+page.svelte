@@ -27,7 +27,7 @@
 			The lineage and transmission is very important with practices like Dzogchen, Mahamudra and
 			Zen. Our group is under the guidance of <a
 				class="link-hover text-secondary"
-				href="/about/dawai-gocha">Lama Dawai Gocha</a
+				href="/about/lama-dawai-gocha">Lama Dawai Gocha</a
 			>, who has gotten empowerments, transmission, and pointing out instructions from living
 			recognized masters. Following your teachers advice and doing any preliminary practices is
 			recommended. If the practitioner is ready then they can begin Dzogchen which, in a modern

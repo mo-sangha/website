@@ -26,8 +26,9 @@
 					<li>Twice a day: 9am and 9pm ET.</li>
 					<li>Established 2013.</li>
 					<li>
-						Under the guidance of <a class="link-hover text-secondary" href="/about/dawai-gocha"
-							>Lama Dawai Gocha</a
+						Under the guidance of <a
+							class="link-hover text-secondary"
+							href="/about/lama-dawai-gocha">Lama Dawai Gocha</a
 						>.
 					</li>
 				</ul>

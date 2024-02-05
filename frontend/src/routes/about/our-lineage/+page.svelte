@@ -7,8 +7,9 @@
 	<div class="page-content-section">
 		<p>
 			We are descended from the authentic Tibetan Buddhist Nyingma Palyul lineage. Our group's main
-			teacher, <a class="link-hover text-secondary" href="/about/dawai-gocha">Lama Dawai Gocha</a>,
-			has practiced for more than 20 years under the guidance of many great masters.
+			teacher, <a class="link-hover text-secondary" href="/about/lama-dawai-gocha"
+				>Lama Dawai Gocha</a
+			>, has practiced for more than 20 years under the guidance of many great masters.
 		</p>
 		<h3 class="font-display text-2xl">His Holiness Penor Rinpoche</h3>
 		<Photo src="/photo-penor-rinpoche.jpg" caption="HH Penor Rinpoche" />
