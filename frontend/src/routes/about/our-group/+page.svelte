@@ -2,11 +2,17 @@
 	<h2 class="page-header">Our group</h2>
 	<div class="page-content-section">
 		<p>
-			We have been meditating online since 2013, having started off on Reddit's /r/Buddhism
-			subreddit as "redditations." Our online sessions are safe spaces where you can join us from
-			anywhere in the world, completely for free. There is no expectation of donations or payment of
-			any kind. We are a community of people who are interested in meditation and mindfulness, and
-			we're happy to have you join us.
+			<a href="/" class="link link-hover text-secondary">MeditationOnline.org</a> has been an open
+			meditation group since 2013, totally free of charge. We started off on Reddit's
+			<a
+				href="https://www.reddit.com/r/Buddhism/"
+				target="_blank"
+				class="link link-hover text-secondary"
+				rel="noopener nofollow noreferrer">/r/Buddhism</a
+			>subreddit as "redditations." Our online sessions are safe spaces where you can join us from
+			anywhere in the world. There is no expectation of donations or payment of any kind. We are a
+			community of people who are interested in meditation and mindfulness, and we're happy to have
+			you join us.
 		</p>
 		<p>
 			This group is intended to be all inclusive and modern in the sense of creating a new kind of
@@ -19,8 +25,9 @@
 
 		<p>
 			The lineage and transmission is very important with practices like Dzogchen, Mahamudra and
-			Zen. Our group is hosted by <a class="link-hover text-secondary" href="/about/dawai-gocha"
-				>dawai</a
+			Zen. Our group is under the guidance of <a
+				class="link-hover text-secondary"
+				href="/about/dawai-gocha">Lama Dawai Gocha</a
 			>, who has gotten empowerments, transmission, and pointing out instructions from living
 			recognized masters. Following your teachers advice and doing any preliminary practices is
 			recommended. If the practitioner is ready then they can begin Dzogchen which, in a modern

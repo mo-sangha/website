@@ -12,9 +12,9 @@
 			years.
 		</p>
 		<p>
-			He has received teachings from H.H. Dalai Lama, H.H. Penor Rinpoche, Mingyur Rinpoche, Lama
-			Karma Dorje, and others; receiving empowerments and instructions on many different Buddhist
-			practices.
+			He has received teachings from H.H. Dalai Lama, H.H. Penor Rinpoche, Mingyur Rinpoche,
+			Dodrupchen and many others; receiving empowerments and instructions on the full range of
+			Buddhist practices, from Śrāvakayāna to Atiyoga and Dzogchen.
 		</p>
 	</div>
 </div>

@@ -7,9 +7,8 @@
 	<div class="page-content-section">
 		<p>
 			We are descended from the authentic Tibetan Buddhist Nyingma Palyul lineage. Our group's main
-			teacher, <a class="link-hover text-secondary" href="/about/dawai-gocha">dawai</a>, has
-			practiced for more than 20 years under the guidance of many great masters from that lineage,
-			and teaches what he has learned from them about Dzogchen, also known as Atiyoga.
+			teacher, <a class="link-hover text-secondary" href="/about/dawai-gocha">Lama Dawai Gocha</a>,
+			has practiced for more than 20 years under the guidance of many great masters.
 		</p>
 		<h3 class="font-display text-2xl">His Holiness Penor Rinpoche</h3>
 		<Photo src="/photo-penor-rinpoche.jpg" caption="HH Penor Rinpoche" />
@@ -40,20 +39,6 @@
 			Phuntsok Rinpoche and Nyoshul Khen Rinpoche. Pema Norbu Rinpoche has authorized him to
 			represent the monastery and to teach, to confer empowerments and to give personal instruction
 			in Buddhist practice.
-		</p>
-		<h3 class="font-display text-2xl">Lama Karma Dorje</h3>
-		<Photo src="/photo-karma-dorje.jpg" caption="Lama Karma Dorje" />
-		<p>
-			Venerable Lama Karma Dorje was born in a village near Gangtok, Sikkim. He began his Buddhist
-			training at the age of twelve and became a novice monk at the age of 30, at Sonada Monastery
-			in Darjeeling with H. E. Kalu Rinpoche. He later took full ordination at Rumtek, Sikkim, the
-			monastery of His Holiness the Karmapa, and then completed the three-year retreat in Sonada. He
-			is an accomplished painter in the thangka tradition, the sacred art of Tibet. In 1980 His
-			Eminence Kalu Rinpoche and H.H. Karmapa requested that Lama Dorje visit various centers in
-			Europe, France, New York, Los Angeles, and Seattle. In 1981 His Eminence Kalu Rinpoche asked
-			him to come to Santa Fe, where he has remained as director of KSK Buddhist Center. Venerable
-			Lama Dorje is also the director of the Dharma Center in Taos, Kagyu Degyi Choling, where he
-			supervised the construction of a 30-foot Stupa, the Gonpa, and the Kangyur building.
 		</p>
 	</div>
 </div>
