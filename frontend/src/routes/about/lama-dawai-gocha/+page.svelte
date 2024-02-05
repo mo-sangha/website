@@ -14,7 +14,7 @@
 		<p>
 			He has received teachings from H.H. Dalai Lama, H.H. Penor Rinpoche, Mingyur Rinpoche,
 			Dodrupchen and many others; receiving empowerments and instructions on the full range of
-			Buddhist practices, from Śrāvakayāna to Atiyoga and Dzogchen.
+			Buddhist practices, from Śrāvakayāna to Atiyoga.
 		</p>
 		<p>Lama Dawai Gocha currently resides off-grid on the Taos Mesa in New Mexico, USA.</p>
 	</div>
