@@ -1,8 +1,20 @@
 <script lang="ts">
 	import '../app.css';
-	import { dev } from '$app/environment';
 	import Navigation from '../components/navigation/Navigation.svelte';
 	import { links } from './navLinks';
+	import { definition as faDiscord } from '@fortawesome/free-brands-svg-icons/faDiscord';
+	import { definition as faYoutube } from '@fortawesome/free-brands-svg-icons/faYoutube';
+	import Icon from '../components/Icon.svelte';
+
+	const socialIcons = [
+		{
+			icon: faYoutube,
+			color: '#CD201F',
+			label: 'YouTube',
+			href: 'https://www.youtube.com/@JoinMeditationOnline'
+		},
+		{ icon: faDiscord, color: '#7289da', label: 'Discord', href: 'https://discord.gg/J7NVKYmHNR' }
+	];
 </script>
 
 <div class="h-full w-full flex flex-col justify-between">
@@ -35,14 +47,18 @@
 					{/if}
 				{/each}
 			</div>
-			<div class="flex flex-col">
+			<div class="flex flex-col gap-2">
 				<header class="footer-title">Socials</header>
-				<a
-					href="https://www.youtube.com/@JoinMeditationOnline"
-					target="_blank"
-					class="link link-hover">YouTube</a
-				>
-				<a href="https://discord.gg/J7NVKYmHNR" target="_blank" class="link link-hover">Discord</a>
+				{#each socialIcons as def}
+					<a
+						href={def.href}
+						target="_blank"
+						class="link link-hover flex flex-row gap-1 align-middle justify-start"
+					>
+						<Icon icon={def.icon} color={def.color} />
+						{def.label}
+					</a>
+				{/each}
 			</div>
 		</nav>
 	</footer>

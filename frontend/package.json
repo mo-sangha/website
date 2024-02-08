@@ -35,6 +35,8 @@
 		"vitest": "^0.32.2"
 	},
 	"dependencies": {
+		"@fortawesome/free-brands-svg-icons": "^6.5.1",
+		"@fortawesome/free-solid-svg-icons": "^6.5.1",
 		"date-fns": "^2.30.0",
 		"date-fns-tz": "^2.0.0"
 	}
