@@ -37,7 +37,12 @@
 			</div>
 			<div class="flex flex-col">
 				<header class="footer-title">Socials</header>
-				<a href="https://www.youtube.com/@JoinMeditationOnline" class="link link-hover">YouTube</a>
+				<a
+					href="https://www.youtube.com/@JoinMeditationOnline"
+					target="_blank"
+					class="link link-hover">YouTube</a
+				>
+				<a href="https://discord.gg/J7NVKYmHNR" target="_blank" class="link link-hover">Discord</a>
 			</div>
 		</nav>
 	</footer>
