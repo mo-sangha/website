@@ -1,4 +1,9 @@
 {
     "editor.formatOnSave": true,
-    "[svelte]": {"editor.defaultFormatter": "svelte.svelte-vscode"}
+    "[svelte]": {
+        "editor.defaultFormatter": "svelte.svelte-vscode"
+    },
+    "emmet.includeLanguages": {
+        "svelte": "html"
+    },
 }
