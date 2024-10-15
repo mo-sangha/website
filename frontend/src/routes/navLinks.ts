@@ -19,5 +19,6 @@ export const links: NavLink[] = [
 			{ name: 'Our Lineage', href: '/about/our-lineage', type: 'leaf' },
 			{ name: 'Our Group', href: '/about/our-group', type: 'leaf' }
 		]
-	}
+	},
+	{ name: 'Friends', href: '/friends', type: 'leaf' },
 ];

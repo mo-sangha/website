@@ -22,13 +22,13 @@
 		Online
 	</a>
 	<!-- full menu -->
-	<div class="flex-none flex-row gap-4 hidden xl:flex">
+	<div class="flex-none flex-row gap-4 hidden 2xl:flex">
 		{#each links as link}
 			<TopbarNavLink {link} />
 		{/each}
 	</div>
 	<!-- Drawer -->
-	<div class="drawer drawer-end xl:hidden w-fit z-50">
+	<div class="drawer drawer-end 2xl:hidden w-fit z-50">
 		<input
 			id="meditationonline-nav-drawer"
 			type="checkbox"

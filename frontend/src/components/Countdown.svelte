@@ -1,6 +1,6 @@
 <script>
-	import { compareAsc, format, addDays, differenceInMilliseconds, addHours } from 'date-fns';
-	import { formatInTimeZone, zonedTimeToUtc, utcToZonedTime } from 'date-fns-tz';
+	import { format, addDays, addHours } from 'date-fns';
+	import { zonedTimeToUtc, utcToZonedTime } from 'date-fns-tz';
 	import { onDestroy, onMount } from 'svelte';
 
 	/**
@@ -27,8 +27,6 @@
 
 		/** @type {number } - the time until the next session */
 		let timeUntilNext;
-		/** @type {boolean} - whether the session is running right now */
-		let isSessionRunning;
 
 		// Check if the session is running right now
 		const isInMorningSession = etTime >= morningSession && etTime < addHours(morningSession, 1);

@@ -6,4 +6,7 @@
     "emmet.includeLanguages": {
         "svelte": "html"
     },
+    "eslint.validate": [
+        "svelte"
+    ]
 }
