@@ -55,9 +55,13 @@
 					<a
 						href={def.href}
 						target="_blank"
-						class="link link-hover flex flex-row gap-1 align-middle justify-start"
+						class="group link link-hover flex flex-row gap-2 align-middle justify-start items-center underline-offset-2"
 					>
-						<Icon icon={def.icon} color={def.color} />
+						<Icon 
+							icon={def.icon} 
+							color={def.color} 
+							class="rounded-xl p-[3px] bg-white/70 border border-slate-950 transition-transform transform group-hover:scale-110 group-hover:bg-white group-hover:shadow-sm group-hover:shadow-slate-950/50"
+						/>
 						{def.label}
 					</a>
 				{/each}

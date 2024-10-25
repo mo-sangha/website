@@ -14,7 +14,7 @@
 			community. Each act of generosity, big or small, contributes to the growth and vitality of our
 			spiritual family.
 		</p>
-		<p class="flex justify-center mt-2">
+		<p class="flex justify-center">
 			<DonateButton />
 		</p>
 		<p>

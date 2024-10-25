@@ -33,7 +33,7 @@ onMount(() => {
                hover:scale-105 transition-all duration-300"
         style="background-image: url({iconSmall}); 
                background-size: 65px 65px; 
-               background-position: -16px center; 
+               background-position: -17px center; 
                background-repeat: no-repeat;"
     >
         <span class="z-10 pl-1">GIVE DANA</span>
