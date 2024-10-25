@@ -1,5 +1,6 @@
 <script>
 	import Photo from '../../../components/Photo.svelte';
+	import DonateButton from '/src/components/DonateButton.svelte';
 </script>
 
 <div class="h-full w-full flex flex-col gap-8 md:gap-16">
@@ -12,6 +13,9 @@
 			compassion. Your Dana directly aids the dissemination of Dzogchen teachings and sustains our
 			community. Each act of generosity, big or small, contributes to the growth and vitality of our
 			spiritual family.
+		</p>
+		<p class="flex justify-center mt-2">
+			<DonateButton />
 		</p>
 		<p>
 			Dana given to the Meditation Online community offers vital support to <a
@@ -38,16 +42,6 @@
 							Funds are used for the group's Dharma activities and Lama Dawai's living expenses.
 						</li>
 					</ul>
-					<p>
-						<a
-							href="https://www.paypal.com/paypalme/dawaigocha"
-							target="_blank"
-							class="py-3 px-5 round rounded-md bg-base-300 text-base-content hover:bg-primary transition-colors hover:text-primary-content font-bold object-contain flex flex-row w-fit gap-2 items-center shadow-sm hover:shadow-md"
-						>
-							<img src="/favicon-32x32.png" alt="" class="inline-block w-fit object-contain h-7" />
-							<span class="w-full"> Donate via PayPal </span>
-						</a>
-					</p>
 				</div>
 				<Photo src="/photo-begging-bowl.jpg" />
 			</div>

@@ -5,6 +5,8 @@
 	import { definition as faDiscord } from '@fortawesome/free-brands-svg-icons/faDiscord';
 	import { definition as faYoutube } from '@fortawesome/free-brands-svg-icons/faYoutube';
 	import Icon from '../components/Icon.svelte';
+	import DonateButton from '../components/DonateButton.svelte';
+	
 
 	const socialIcons = [
 		{
@@ -30,7 +32,7 @@
 	<footer
 		class="footer p-10 mt-10 bg-gradient-to-b from-base-100 to-base-300 text-neutral-content p-gutter"
 	>
-		<nav class="flex flex-row gap-8">
+		<nav class="flex flex-row justify-between w-full">
 			<div class="flex flex-col">
 				<header class="footer-title">Site Map</header>
 				<!-- <a href="/" class="link link-hover">Home</a>
@@ -59,6 +61,10 @@
 						{def.label}
 					</a>
 				{/each}
+			</div>
+			<div class="flex flex-col gap-1">
+				<header class="footer-title">Donate</header>
+				<DonateButton />
 			</div>
 		</nav>
 	</footer>
