@@ -5,6 +5,7 @@
 	import { definition as faDiscord } from '@fortawesome/free-brands-svg-icons/faDiscord';
 	import { definition as faYoutube } from '@fortawesome/free-brands-svg-icons/faYoutube';
 	import Icon from '../components/Icon.svelte';
+	import DonateButton from '../components/DonateButton.svelte';
 
 	const socialIcons = [
 		{
@@ -30,7 +31,7 @@
 	<footer
 		class="footer p-10 mt-10 bg-gradient-to-b from-base-100 to-base-300 text-neutral-content p-gutter"
 	>
-		<nav class="flex flex-row gap-8">
+		<nav class="flex flex-row justify-between w-full">
 			<div class="flex flex-col">
 				<header class="footer-title">Site Map</header>
 				<!-- <a href="/" class="link link-hover">Home</a>
@@ -53,12 +54,20 @@
 					<a
 						href={def.href}
 						target="_blank"
-						class="link link-hover flex flex-row gap-1 align-middle justify-start"
+						class="group link link-hover flex flex-row gap-2 align-middle justify-start items-center underline-offset-2"
 					>
-						<Icon icon={def.icon} color={def.color} />
+						<Icon
+							icon={def.icon}
+							color={def.color}
+							class="rounded-xl p-[3px] bg-white/70 border border-slate-950 transition-transform transform group-hover:scale-110 group-hover:bg-white group-hover:shadow-sm group-hover:shadow-slate-950/50"
+						/>
 						{def.label}
 					</a>
 				{/each}
+			</div>
+			<div class="flex flex-col gap-1">
+				<header class="footer-title">Donate</header>
+				<DonateButton />
 			</div>
 		</nav>
 	</footer>

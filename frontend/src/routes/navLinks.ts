@@ -20,5 +20,5 @@ export const links: NavLink[] = [
 			{ name: 'Our Group', href: '/about/our-group', type: 'leaf' }
 		]
 	},
-	{ name: 'Friends', href: '/friends', type: 'leaf' },
+	{ name: 'Friends', href: '/friends', type: 'leaf' }
 ];
