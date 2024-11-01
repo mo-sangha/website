@@ -144,7 +144,7 @@
 		</p>
 	</div>
 	<div class="page-content-section">
-		<img src="/yogis-meditationonline.jpg" alt="Image of yogis meditating" class="w-full h-auto" />
+		<img src="/yogis-meditationonline.png" alt="Image of yogis meditating" class="w-full h-auto" />
 	</div>
 </div>
 
