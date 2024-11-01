@@ -1,6 +1,8 @@
 <div class="h-full w-full flex flex-col gap-8 md:gap-16">
 	<h2 class="page-header">MO Approach Overview: Dzogchen Path to Liberation</h2>
+
 	<div class="page-content-section gap-6">
+        <iframe width="560" height="315" style="max-width: 100%;" src="https://www.youtube.com/embed/X8yFR2FhNYc?si=yWV7Z71dxAONed-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         <h3 class="font-display text-2xl">1st key point: Recognition of the Nature of Mind  </h3>
         <p>
             Introduction/key point, discerning implications, embracing a larger scope, coming to decisive experience.
