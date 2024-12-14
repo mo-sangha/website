@@ -1,8 +1,8 @@
 <script lang="ts">
 	import Countdown from '/src/components/Countdown.svelte';
 	const meditationEvents = [
-		{ title: 'Meditation with Shruti', dayOfWeek: 6, times: ['10:00'] },
-		{ title: 'Meditation with Shruti', dayOfWeek: 0, times: ['10:00'] },
+		{ title: 'Meditation by Bee', dayOfWeek: 6, times: ['10:00'] },
+		{ title: 'Meditation by Bee', dayOfWeek: 0, times: ['10:00'] },
 	];
 
 	function twelveHourTime(time: string) {
@@ -29,7 +29,7 @@
 </script>
 
 <div class="h-full w-full flex flex-col gap-8 md:gap-16">
-	<h2 class="page-header">Meditations hosted by friends</h2>
+	<h2 class="page-header">Meditations by Bee</h2>
 	<div class="page-content-section">
 		This page offers meditations and guided sits led by practitioners from the Meditation Online
 		community. These sessions welcome participants of all experience levels, unless otherwise noted.
