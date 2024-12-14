@@ -1,8 +1,8 @@
 <script lang="ts">
 	import Countdown from '/src/components/Countdown.svelte';
 	const meditationEvents = [
-		{ title: 'Saturday Meditation', dayOfWeek: 6, times: ['10:00'] },
-		{ title: 'Sunday Meditation', dayOfWeek: 0, times: ['10:00'] },
+		{ title: 'Meditation with Shruti', dayOfWeek: 6, times: ['10:00'] },
+		{ title: 'Meditation with Shruti', dayOfWeek: 0, times: ['10:00'] },
 	];
 
 	function twelveHourTime(time: string) {
