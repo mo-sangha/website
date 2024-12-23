@@ -1,6 +1,0 @@
-graph.ttl
-source.txt
-__pycache__
-node_modules/
-.env
-.docs
