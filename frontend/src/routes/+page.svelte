@@ -11,9 +11,8 @@
 		<div class="flex flex-col gap-4 py-16 items-center">
 			<div class="flex flex-col gap-8 items-center">
 				<img
-					class="w-24 md:w-36 lg:w-48 aspect-square"
+					class="w-24 md:w-36 lg:w-48 aspect-square max-w-[16rem]"
 					alt="Dzogchen Symbol"
-					class="max-w-[16rem]"
 					src={iconLarge}
 				/>
 				<h1 class="text-3xl md:text-3xl lg:text-5xl font-bold font-display">
