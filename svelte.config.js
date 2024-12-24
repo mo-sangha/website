@@ -11,7 +11,7 @@ const config = {
 			precompress: false,
 			strict: true
 		}),
-		appDir: "app"
+		appDir: 'app'
 	},
 	preprocess: vitePreprocess()
 };

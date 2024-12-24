@@ -1,12 +1,10 @@
 {
-    "editor.formatOnSave": true,
-    "[svelte]": {
-        "editor.defaultFormatter": "svelte.svelte-vscode"
-    },
-    "emmet.includeLanguages": {
-        "svelte": "html"
-    },
-    "eslint.validate": [
-        "svelte"
-    ]
+	"editor.formatOnSave": true,
+	"[svelte]": {
+		"editor.defaultFormatter": "svelte.svelte-vscode"
+	},
+	"emmet.includeLanguages": {
+		"svelte": "html"
+	},
+	"eslint.validate": ["svelte"]
 }

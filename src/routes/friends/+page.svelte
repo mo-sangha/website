@@ -2,7 +2,7 @@
 	import Countdown from '/src/components/Countdown.svelte';
 	const meditationEvents = [
 		{ title: 'Meditation by Bee', dayOfWeek: 6, times: ['10:00'] },
-		{ title: 'Meditation by Bee', dayOfWeek: 0, times: ['10:00'] },
+		{ title: 'Meditation by Bee', dayOfWeek: 0, times: ['10:00'] }
 	];
 
 	function twelveHourTime(time: string) {
@@ -22,7 +22,7 @@
 		if (items.length === 0) return '';
 		if (items.length === 1) return items[0];
 		if (items.length === 2) return `${items[0]} and ${items[1]}`;
-		
+
 		const lastItem = items.pop();
 		return `${items.join(', ')}, and ${lastItem}`;
 	}
@@ -38,8 +38,8 @@
 		schedule.
 	</div>
 	{#each meditationEvents as { title, dayOfWeek, times }}
-	<div class="page-content-section flex flex-col items-center text-center gap-4">
-		<h3 class="font-display text-2xl">{title}</h3>
+		<div class="page-content-section flex flex-col items-center text-center gap-4">
+			<h3 class="font-display text-2xl">{title}</h3>
 			<p>{namedDayOfWeek(dayOfWeek)}s at {formatTimes(times)} EST (USA Eastern time).</p>
 			<a href="https://meet.jit.si/meditationhangout" class="btn btn-primary w-fit">Join Room</a>
 			<Countdown {dayOfWeek} {times} />

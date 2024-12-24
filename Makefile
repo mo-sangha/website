@@ -12,6 +12,11 @@ build: node_modules
 node_modules: 
 	pnpm install
 
+# Checks code style.
+lint:
+	npx prettier --check .
+	# TODO: eslint.
+
 # Remove all files that aren't committed to the git repository.
 .PHONY: clean
 clean:
