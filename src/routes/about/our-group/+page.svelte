@@ -1,5 +1,5 @@
 <div class="h-full w-full flex flex-col gap-8 md:gap-16">
-	<h2 class="page-header">Our group</h2>
+	<h2 class="page-header">Our Group</h2>
 	<div class="page-content-section">
 		<p>
 			<a href="/" class="link link-hover text-secondary">MeditationOnline.org</a> has been an open
@@ -28,7 +28,7 @@
 				class="link-hover text-secondary"
 				href="/about/lama-dawai-gocha">Lama Dawai Gocha</a
 			>, who has gotten empowerments, transmission, and pointing out instructions from living
-			recognized masters. Following your teachers advice and doing any preliminary practices is
+			recognized masters. Following your teacher's advice and doing any preliminary practices is
 			recommended. If the practitioner is ready then they can begin Dzogchen which, in a modern
 			sense, can start with an introduction to the nature of mind.
 		</p>
