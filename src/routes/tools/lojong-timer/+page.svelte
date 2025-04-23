@@ -81,12 +81,12 @@
 		{#if isRunning}
 			<div class="text-2xl sm:text-3xl md:text-4xl lg:text-4xl text-primary">{slogan.slogan}</div>
 			<div class="italic opacity-50">{slogan.chapterTitle}</div>
-			<button class="btn btn-ghost w-fit opacity-40" on:click={() => stopSession()}>Stop</button>
+			<button class="btn btn-ghost w-fit opacity-40" onclick={() => stopSession()}>Stop</button>
 		{:else}
 			<div class="text-4xl text-primary">Lojong Timer</div>
 			<p>A simple timer that displays Lojong slogans.</p>
 			<div class="flex flex-col gap-4">
-				<button class="btn btn-primary w-fit" on:click={() => startSession()}> Start </button>
+				<button class="btn btn-primary w-fit" onclick={() => startSession()}> Start </button>
 				<!-- a numeric input to select seconds of practice -->
 				<div>
 					<label for="step-duration" class="label"> Duration (Seconds) </label>

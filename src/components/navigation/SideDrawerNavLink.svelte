@@ -18,7 +18,7 @@
 			href={child.href}
 			class:underline={isActive(child, $page)}
 			aria-label="close sidebar"
-			on:click={() => handleOnclick(child.href)}
+			onclick={() => handleOnclick(child.href)}
 		>
 			{link.name} -> {child.name}
 		</a>
@@ -26,7 +26,7 @@
 {:else if link.type === 'leaf'}
 	<a
 		href={link.href}
-		on:click={() => handleOnclick((link as NavLinkLeaf).href)}
+		onclick={() => handleOnclick((link as NavLinkLeaf).href)}
 		class=""
 		class:underline={isActive(link, $page)}
 	>
