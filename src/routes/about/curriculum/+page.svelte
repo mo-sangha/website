@@ -6,7 +6,7 @@
 			width="560"
 			height="315"
 			style="max-width: 100%;"
-			src="https://www.youtube.com/embed/X8yFR2FhNYc?si=yWV7Z71dxAONed-E"
+			src="https://www.youtube-nocookie.com/embed/X8yFR2FhNYc?si=yWV7Z71dxAONed-E"
 			title="YouTube video player"
 			frameborder="0"
 			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
