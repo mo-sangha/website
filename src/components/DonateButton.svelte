@@ -23,7 +23,7 @@
 	></div>
 {:else}
 	<a
-		href="https://www.paypal.com/paypalme/dawaigocha"
+		href="https://ko-fi.com/meditationonline"
 		target="_blank"
 		class="relative flex items-center gap-2 w-fit pl-14 pr-5 py-2
                text-xs text-primary-content hover:text-white
