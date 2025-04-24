@@ -11,6 +11,19 @@
 				>Lama Dawai Gocha</a
 			>, has practiced for more than 20 years under the guidance of many great masters.
 		</p>
+
+		<h3 class="font-display text-2xl">His Holiness the 14th Dalai Lama</h3>
+		<Photo src="/photo-hh-14th-dalai-lama.jpg" caption="HH the 14th Dalai Lama" />
+		<p>
+			Lozang Gyatso, 5th Dalai Lama (1617–1682), Thubten Gyatso, 13th Dalai Lama (1876–1933),
+			and Tenzin Gyatso, 14th Dalai Lama (present), all Gelugpas, are also noted Dzogchen masters.
+			The fifth Dalai Lama had numerous Nyingma teachers and was also a terton who revealed a Dzogchen
+			terma cycle through his pure visions known as the Sangwa Gyachen (Bearing the Seal of Secrecy).
+			The current Dalai Lama, Tenzin Gyatso, has given empowerments from this cycle. Lama Dawai Gocha has
+			received Dzogchen empowerment and transmission from the current Dalai Lama and has held him as a teacher
+			for many years.
+		</p>
+
 		<h3 class="font-display text-2xl">His Holiness Penor Rinpoche</h3>
 		<Photo src="/photo-penor-rinpoche.jpg" caption="HH Penor Rinpoche" />
 		<p>
@@ -24,6 +37,7 @@
 			the 1980s he recognized the first Western female reincarnate lama, Jetsunma Ahkon Lhamo (Alyce
 			Louise Zeoli).
 		</p>
+
 		<h3 class="font-display text-2xl">Khenchen Tsewang Gyatso Rinpoche</h3>
 		<Photo src="/photo-khenchen-tsewang-gyatso.jpg" caption="Khenchen Tsewang Gyatso Rinpoche" />
 		<p>
@@ -41,5 +55,17 @@
 			represent the monastery and to teach, to confer empowerments and to give personal instruction
 			in Buddhist practice.
 		</p>
+
+		<h3 class="font-display text-2xl">Other Teachers</h3>
+		<p>
+      Other teachers include Dodrupchen Rinpoche IV who gave important transmissions,
+      Thrangu Rinpoche who was a visiting teacher in Crestone, CO where Lama Dawai Gocha practiced and studied;
+      Khentrul Gyang Khang Rinpoche who gave Lama Dawai many teachings,
+      empowerments and transmissions during retreats; Tulku Dawa Gyalpo who was Lama Dawai's Tsa Lung
+      anuyoga techer, Khenpo Tenzin Norgey (Dzogchen trekcho/togyal, shedra teacher who gave initial blessings
+      to teach with Khenchen Tsewang); Lama Pasang (ngondo teacher), Mingyur Rinpoche who conferred important
+      Guru Rinpoche Dzogchen empowerment/transmission. Garchen Rinpoche, Yogi Acharya Lama Gursam (retreat teacher);
+      Lama Yeshe Dorje who gave important blessings/authorization to teach Ati/Mahamudra.
+    </p>
 	</div>
 </div>
