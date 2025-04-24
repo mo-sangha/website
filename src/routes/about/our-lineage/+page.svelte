@@ -65,7 +65,7 @@
       anuyoga techer, Khenpo Tenzin Norgey (Dzogchen trekcho/togyal, shedra teacher who gave initial blessings
       to teach with Khenchen Tsewang); Lama Pasang (ngondo teacher), Mingyur Rinpoche who conferred important
       Guru Rinpoche Dzogchen empowerment/transmission. Garchen Rinpoche, Yogi Acharya Lama Gursam (retreat teacher);
-      Lama Yeshe Dorje who gave important blessings/authorization to teach Ati/Mahamudra.
+      Lama Karma Dorje who gave important blessings/authorization to teach Ati/Mahamudra.
     </p>
 	</div>
 </div>
