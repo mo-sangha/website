@@ -24,8 +24,8 @@
 			the 1980s he recognized the first Western female reincarnate lama, Jetsunma Ahkon Lhamo (Alyce
 			Louise Zeoli).
 		</p>
-		<h3 class="font-display text-2xl">Khencheng Tsewang Gyatso Rinpoche</h3>
-		<Photo src="/photo-khencheng-tsewang-gyatso.jpg" caption="Khencheng Tsewang Gyatso Rinpoche" />
+		<h3 class="font-display text-2xl">Khenchen Tsewang Gyatso Rinpoche</h3>
+		<Photo src="/photo-khenchen-tsewang-gyatso.jpg" caption="Khenchen Tsewang Gyatso Rinpoche" />
 		<p>
 			Khenchen Tsewang Gyatso Rinpoche is a senior Khenpo (professor of Buddhist Philosophy) from
 			the Shedra (Lama's College) at Paylul Namdroling Monastery near Mysore in the south of India.
