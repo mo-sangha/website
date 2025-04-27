@@ -11,9 +11,7 @@ import{t as l,a as d}from"../chunks/EiX_PXJ2.js";import"../chunks/DBYP0D2S.js";i
 			Buddhism and the eleventh throne-holder of the Palyul lineage. Considered an incarnation of
 			Vimalamitra, Rinpoche received his full spiritual training in Tibet before escaping to India
 			in 1959. He subsequently established Namdroling Monastery in Southern India and also taught
-			extensively throughout the world. Rinpoche had many Tibetan and international students, and in
-			the 1980s he recognized the first Western female reincarnate lama, Jetsunma Ahkon Lhamo (Alyce
-			Louise Zeoli).</p> <h3 class="font-display text-2xl">Khenchen Tsewang Gyatso Rinpoche</h3> <!> <p>Khenchen Tsewang Gyatso Rinpoche is a senior Khenpo (professor of Buddhist Philosophy) from
+			extensively throughout the world.</p> <h3 class="font-display text-2xl">Khenchen Tsewang Gyatso Rinpoche</h3> <!> <p>Khenchen Tsewang Gyatso Rinpoche is a senior Khenpo (professor of Buddhist Philosophy) from
 			the Shedra (Lama's College) at Paylul Namdroling Monastery near Mysore in the south of India.
 			He is a representative of His Holiness Penor Rinpoche, throne-holder of Palyul Monastery and
 			its many branches around the world. H.H. Penor Rinpoche has entrusted him with the
