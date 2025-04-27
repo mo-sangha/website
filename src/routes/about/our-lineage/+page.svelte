@@ -33,9 +33,7 @@
 			Buddhism and the eleventh throne-holder of the Palyul lineage. Considered an incarnation of
 			Vimalamitra, Rinpoche received his full spiritual training in Tibet before escaping to India
 			in 1959. He subsequently established Namdroling Monastery in Southern India and also taught
-			extensively throughout the world. Rinpoche had many Tibetan and international students, and in
-			the 1980s he recognized the first Western female reincarnate lama, Jetsunma Ahkon Lhamo (Alyce
-			Louise Zeoli).
+			extensively throughout the world.
 		</p>
 
 		<h3 class="font-display text-2xl">Khenchen Tsewang Gyatso Rinpoche</h3>
