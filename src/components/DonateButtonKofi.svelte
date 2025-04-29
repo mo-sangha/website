@@ -23,7 +23,7 @@
 	></div>
 {:else}
 	<a
-		href="https://www.paypal.com/paypalme/dawaigocha"
+		href="https://ko-fi.com/meditationonline"
 		target="_blank"
 		class="relative flex items-center gap-2 w-fit pl-14 pr-5 py-2
                text-xs text-primary-content hover:text-white
@@ -36,7 +36,7 @@
                background-position: -17px center; 
                background-repeat: no-repeat;"
 	>
-		<span class="z-10 pl-1 whitespace-nowrap">Give Dana</span>
+		<span class="z-10 pl-1 whitespace-nowrap">Card / CashApp</span>
 		<Icon icon={faChevronRight} class="z-10" dimension="0.9rem" />
 	</a>
 {/if}

@@ -1,6 +1,7 @@
 <script>
 	import Photo from '../../../components/Photo.svelte';
 	import DonateButton from '/src/components/DonateButton.svelte';
+	import DonateButtonKofi from '/src/components/DonateButtonKofi.svelte';
 </script>
 
 <div class="h-full w-full flex flex-col gap-8 md:gap-16">
@@ -16,6 +17,9 @@
 		</p>
 		<p class="flex justify-center">
 			<DonateButton />
+		</p>
+		<p class="flex justify-center">
+			<DonateButtonKofi />
 		</p>
 		<p>
 			Dana given to the Meditation Online community offers vital support to <a
