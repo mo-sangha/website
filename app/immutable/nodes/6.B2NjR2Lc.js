@@ -27,7 +27,7 @@ import{t as l,a as d}from"../chunks/EiX_PXJ2.js";import"../chunks/DBYP0D2S.js";i
       Thrangu Rinpoche who was a visiting teacher in Crestone, CO where Lama Dawai Gocha practiced and studied;
       Khentrul Gyang Khang Rinpoche who gave Lama Dawai many teachings,
       empowerments and transmissions during retreats; Tulku Dawa Gyalpo who was Lama Dawai's Tsa Lung
-      anuyoga techer, Khenpo Tenzin Norgey (Dzogchen trekcho/togyal, shedra teacher who gave initial blessings
+      anuyoga teacher, Khenpo Tenzin Norgey (Dzogchen trekcho/togyal, shedra teacher who gave initial blessings
       to teach with Khenchen Tsewang); Lama Pasang (ngondo teacher), Mingyur Rinpoche who conferred important
       Guru Rinpoche Dzogchen empowerment/transmission. Garchen Rinpoche, Yogi Acharya Lama Gursam (retreat teacher);
       Lama Karma Dorje who gave important blessings/authorization to teach Ati/Mahamudra.</p></div></div>`);function w(r){var a=p(),o=e(i(a),2),t=e(i(o),4);n(t,{src:"/photo-hh-14th-dalai-lama.jpg",caption:"HH the 14th Dalai Lama"});var h=e(t,6);n(h,{src:"/photo-penor-rinpoche.jpg",caption:"HH Penor Rinpoche"});var c=e(h,6);n(c,{src:"/photo-khenchen-tsewang-gyatso.jpg",caption:"Khenchen Tsewang Gyatso Rinpoche"}),m(6),s(o),s(a),d(r,a)}export{w as component};
