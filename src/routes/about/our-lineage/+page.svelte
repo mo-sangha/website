@@ -60,7 +60,7 @@
       Thrangu Rinpoche who was a visiting teacher in Crestone, CO where Lama Dawai Gocha practiced and studied;
       Khentrul Gyang Khang Rinpoche who gave Lama Dawai many teachings,
       empowerments and transmissions during retreats; Tulku Dawa Gyalpo who was Lama Dawai's Tsa Lung
-      anuyoga techer, Khenpo Tenzin Norgey (Dzogchen trekcho/togyal, shedra teacher who gave initial blessings
+      anuyoga teacher, Khenpo Tenzin Norgey (Dzogchen trekcho/togyal, shedra teacher who gave initial blessings
       to teach with Khenchen Tsewang); Lama Pasang (ngondo teacher), Mingyur Rinpoche who conferred important
       Guru Rinpoche Dzogchen empowerment/transmission. Garchen Rinpoche, Yogi Acharya Lama Gursam (retreat teacher);
       Lama Karma Dorje who gave important blessings/authorization to teach Ati/Mahamudra.
