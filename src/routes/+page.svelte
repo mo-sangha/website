@@ -43,31 +43,6 @@
 	</div>
 	<div class="flex flex-col gap-8 pt-6 pb-20">
 		<div class="page-content-section">
-			<h2 class="text-2xl font-display">Benefits of Meditation & Mindfulness</h2>
-			<p>
-				Recent news events have shown that change is the only constant. Meditation and mindfulness
-				can offer a helpful way to live with this constant change. <Citation
-					href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7287297/">NIH</Citation
-				>. Many different researchers have analyzed and summarized the effects of meditation on
-				behavior and brain imaging in clinical and non-clinical subjects, and have demonstrated
-				significant physical and mental health benefits. <Citation
-					href="https://www.mdpi.com/1660-4601/18/24/13150#:~:text=The%20Mindfulness%20journal%20ranked%20first,occurrence%20keywords"
-					>MDPI</Citation
-				>
-			</p>
-		</div>
-		<div class="page-content-section">
-			<h2 class="text-2xl font-display">Our Meditation & Mindfulness Practice</h2>
-			<p>
-				We use formal meditation practices that come from authentic Buddhist lineage.<Citation
-					href="/about/our-lineage"
-					isLocal>Our Lineage</Citation
-				> The practices we use include mindfulness of breathing, compassion or loving kindness-focused
-				meditation, the use of mantras or phrases as the focus for meditation, and many others. We also
-				share readings and knowledge from authentic Buddhist tradition, especially Dzogchen and Vajrayana.
-			</p>
-		</div>
-		<div class="page-content-section">
 			<h2 class="text-2xl font-display">Free since 2013</h2>
 			<p>
 				<a href="/" class="link link-hover text-secondary">MeditationOnline.org</a>
@@ -78,9 +53,7 @@
 					class="link link-hover text-secondary"
 					rel="noopener nofollow noreferrer">/r/Buddhism</a
 				> subreddit as "redditations." Our online sessions are safe spaces where you can join us from
-				anywhere in the world. There is no expectation of donations or payment of any kind. We are a
-				community of people who are interested in meditation and mindfulness, and we're happy to have
-				you join us.
+				anywhere in the world. There is no expectation of donations or payment of any kind.
 			</p>
 		</div>
 	</div>
