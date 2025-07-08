@@ -22,7 +22,7 @@
 			<div class="text-left mx-auto w-fit">
 				<ul class="list-disc">
 					<li>Always free. All are welcome.</li>
-					<li>Twice a day: 9am and 9pm ET.</li>
+					<li>Three times a day: 9am, 2pm, and 9pm ET.</li>
 					<li>Established 2013.</li>
 					<li>
 						Under the guidance of <a
