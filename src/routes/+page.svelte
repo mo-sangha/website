@@ -22,7 +22,30 @@
 			<div class="text-left mx-auto w-fit">
 				<ul class="list-disc">
 					<li>Always free. All are welcome.</li>
-					<li>Three times a day: 9am, 2pm, and 9pm ET.</li>
+					<li>Three times a day:
+						<a
+							href="https://dateful.com/convert/new-york?t=9am"
+							rel="noopener nofollow noreferrer"
+							target="_blank"
+							class="link-hover text-secondary"
+							>9am
+						</a>,
+						<a
+							href="https://dateful.com/convert/new-york?t=2pm"
+							rel="noopener nofollow noreferrer"
+							target="_blank"
+							class="link-hover text-secondary"
+							>2pm
+						</a>, and
+						<a
+							href="https://dateful.com/convert/new-york?t=9pm"
+							rel="noopener nofollow noreferrer"
+							target="_blank"
+							class="link-hover text-secondary"
+							>9pm
+						</a>
+						ET.
+					</li>
 					<li>Established 2013.</li>
 					<li>
 						Under the guidance of <a
