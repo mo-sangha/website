@@ -22,7 +22,8 @@
 			<div class="text-left mx-auto w-fit">
 				<ul class="list-disc">
 					<li>Always free. All are welcome.</li>
-					<li>Three times a day:
+					<li>
+						Three times a day:
 						<a
 							href="https://dateful.com/convert/new-york?t=9am"
 							rel="noopener nofollow noreferrer"
