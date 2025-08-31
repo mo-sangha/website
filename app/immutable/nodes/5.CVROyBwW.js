@@ -1,4 +1,4 @@
-import{t as a,a as o}from"../chunks/BHXdDUfX.js";import"../chunks/C2WzALyS.js";var i=a(`<div class="h-full w-full flex flex-col gap-8 md:gap-16"><h2 class="page-header">Our Group</h2> <div class="page-content-section"><p><a href="/" class="link link-hover text-secondary">MeditationOnline.org</a> has been an open
+import"../chunks/CWj6FrbW.js";import"../chunks/DHCM8qTR.js";import{f as a,a as o}from"../chunks/BfmLbRZd.js";var i=a(`<div class="h-full w-full flex flex-col gap-8 md:gap-16"><h2 class="page-header">Our Group</h2> <div class="page-content-section"><p><a href="/" class="link link-hover text-secondary">MeditationOnline.org</a> has been an open
 			meditation group since 2013, totally free of charge. We started off on Reddit's <a href="https://www.reddit.com/r/Buddhism/" target="_blank" class="link link-hover text-secondary" rel="noopener nofollow noreferrer">/r/Buddhism</a> subreddit as "redditations." Our online sessions are safe spaces where you can join us from anywhere
 			in the world. There is no expectation of donations or payment of any kind. We are a community of
 			people who are interested in meditation and mindfulness, and we're happy to have you join us.</p> <p>This group is intended to be all inclusive and modern in the sense of creating a new kind of
@@ -10,4 +10,4 @@ import{t as a,a as o}from"../chunks/BHXdDUfX.js";import"../chunks/C2WzALyS.js";v
 			Zen. Our group is under the guidance of <a class="link-hover text-secondary" href="/about/lama-dawai-gocha">Lama Dawai Gocha</a>, who has gotten empowerments, transmission, and pointing out instructions from living
 			recognized masters. Following your teacher's advice and doing any preliminary practices is
 			recommended. If the practitioner is ready then they can begin Dzogchen which, in a modern
-			sense, can start with an introduction to the nature of mind.</p> <p>Please come and go as you feel, there are no rules about attendance.</p></div></div>`);function s(e){var n=i();o(e,n)}export{s as component};
+			sense, can start with an introduction to the nature of mind.</p> <p>Please come and go as you feel, there are no rules about attendance.</p></div></div>`);function d(e){var n=i();o(e,n)}export{d as component};
