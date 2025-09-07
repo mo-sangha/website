@@ -10,8 +10,8 @@
 			You can join our online meditation sessions by clicking the "Join" button on the <a
 				href="/"
 				class="link-hover text-secondary">home page</a
-			>. Sessions happen three times a day, at 9am, 2pm, and 9pm ET. All sessions are completely and
-			always free, require no registration, and are free for the benefit of all sentient beings.
+			>. Sessions happen twice a day, at 9am and 9pm ET. All sessions are completely and always
+			free, require no registration, and are free for the benefit of all sentient beings.
 		</p>
 		<h3 class="font-display text-2xl">Ways to keep in touch.</h3>
 		<p>

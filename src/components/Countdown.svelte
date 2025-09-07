@@ -1,6 +1,6 @@
 <script lang="ts">
 	export let dayOfWeek: number; // 0 = Sunday, 1 = Monday, ..., 6 = Saturday
-	export let times: string[] = ['09:00:00', '14:00:00', '21:00:00']; // times in hh:mm:ss format
+	export let times: string[] = ['09:00:00', '21:00:00']; // times in hh:mm:ss format
 	export let durationHours: number = 1; // duration of each session in hours. floats are fine, e.g. 1.5 for 90 minutes
 	import { format, addDays, addHours, addMinutes } from 'date-fns';
 	import { zonedTimeToUtc, utcToZonedTime } from 'date-fns-tz';

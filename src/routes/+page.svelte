@@ -23,21 +23,15 @@
 				<ul class="list-disc">
 					<li>Always free. All are welcome.</li>
 					<li>
-						Three times a day:
+						Twice a day:
 						<a
 							href="https://dateful.com/convert/new-york?t=9am"
 							rel="noopener nofollow noreferrer"
 							target="_blank"
 							class="link-hover text-secondary"
 							>9am
-						</a>,
-						<a
-							href="https://dateful.com/convert/new-york?t=2pm"
-							rel="noopener nofollow noreferrer"
-							target="_blank"
-							class="link-hover text-secondary"
-							>2pm
-						</a>, and
+						</a>
+						and
 						<a
 							href="https://dateful.com/convert/new-york?t=9pm"
 							rel="noopener nofollow noreferrer"
