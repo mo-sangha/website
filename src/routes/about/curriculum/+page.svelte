@@ -105,7 +105,7 @@
 			<h4 class="font-display text-xl underline">Recommended Readings:</h4>
 			<ul class="list-disc list-inside">
 				<li>"The Precious Treasury of the Way of Abiding" by Longchenpa</li>
-				<li>"The Treasury of the Basic Space of Phenomena" by Longchenpa</li>
+				<li>"The Precious Treasury of the Basic Space of Phenomena" by Longchenpa</li>
 			</ul>
 		</div>
 	</div>
@@ -200,7 +200,7 @@ Practices & Approaches:
 
 Recommended Readings:  
 - "The Precious Treasury of the Way of Abiding" by Longchenpa  
-- "The Treasury of the Basic Space of Phenomena" by Longchenpa  
+- "The Precious Treasury of the Basic Space of Phenomena" by Longchenpa
 
 4th/final key point: Complete Liberation  
 Total release from fixation, allowing for pure presence and the dissolution of the conditioned self.
