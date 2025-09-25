@@ -35,7 +35,7 @@
 			<ul class="list-disc list-inside">
 				<li>"Pointing Out the Nature of Mind" by Khenpo Dongyal Rinpoche</li>
 				<li>"The Precious Treasury of the Way of Abiding" by Longchenpa</li>
-				<li>“Buddhahood without Meditation” by Jigme Lingpa</li>
+				<li>“Buddhahood Without Meditation” by Dudjom Lingpa</li>
 				<li>"Kunjed Gyalpo" (The All Good)</li>
 			</ul>
 		</div>
@@ -77,7 +77,7 @@
 			<ul class="list-disc list-inside">
 				<li>"Pointing Out the Nature of Mind" by Khenpo Dongyal Rinpoche</li>
 				<li>"The Precious Treasury of the Way of Abiding" by Longchenpa</li>
-				<li>"Buddhahood without Meditation" by Jigme Lingpa</li>
+				<li>"Buddhahood Without Meditation" by Dudjom Lingpa</li>
 				<li>"Kunjed Gyalpo"</li>
 			</ul>
 		</div>
@@ -160,7 +160,7 @@ Practices & Approaches:
 Recommended Readings:  
 - "Pointing Out the Nature of Mind" by Khenpo Dongyal Rinpoche  
 - "The Precious Treasury of the Way of Abiding" by Longchenpa  
-- “Buddhahood without Meditation” by Jigme Lingpa
+- “Buddhahood Without Meditation” by Dudjom Lingpa
 - "Kunjed Gyalpo" (The All Good)
 
 Introduction to the Four Samayas
@@ -182,7 +182,7 @@ Practices & Approaches:
 Recommended Readings:  
 - "Pointing Out the Nature of Mind" by Khenpo Dongyal Rinpoche  
 - "The Precious Treasury of the Way of Abiding" by Longchenpa  
-- “Buddhahood without Meditation” by Jigme Lingpa
+- “Buddhahood Without Meditation” by Dudjom Lingpa
 - "Kunjed Gyalpo"
 
 3rd key point: Complete Effortlessness  
