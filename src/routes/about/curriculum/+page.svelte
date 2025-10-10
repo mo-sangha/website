@@ -44,7 +44,7 @@
 	<div class="page-content-section gap-6">
 		<h3 class="font-display text-2xl">2nd key point: Familiarity and Sustaining the Recognition</h3>
 		<p>
-			Four divisions: reveling in the key point, discerning implications, embracing a larger scope,
+			Four divisions: revealing the key point, discerning implications, embracing a larger scope,
 			coming to decisive experience.
 		</p>
 		<p>
@@ -86,7 +86,7 @@
 	<div class="page-content-section gap-6">
 		<h3 class="font-display text-2xl">3rd key point: Complete Effortlessness</h3>
 		<p>
-			Four divisions: reveling in the key point, discerning implications, embracing a larger scope,
+			Four divisions: revealing the key point, discerning implications, embracing a larger scope,
 			coming to decisive experience.
 		</p>
 		<p>Important Points: A state of complete ease, allowing awareness to remain prominent.</p>
@@ -166,7 +166,7 @@ Recommended Readings:
 Introduction to the Four Samayas
 
 2nd key point: Familiarity and Sustaining the Recognition  
-Four divisions: reveling in the key point, discerning implications, embracing a larger scope, coming to decisive experience.
+Four divisions: revealing the key point, discerning implications, embracing a larger scope, coming to decisive experience.
 
 Important Points: Deepen familiarity with the nature of mind and integrate various experiences into pure presence.
 
@@ -186,7 +186,7 @@ Recommended Readings:
 - "Kunjed Gyalpo"
 
 3rd key point: Complete Effortlessness  
-Four divisions: reveling in the key point, discerning implications, embracing a larger scope, coming to decisive experience.
+Four divisions: revealing the key point, discerning implications, embracing a larger scope, coming to decisive experience.
 
 Important Points: A state of complete ease, allowing awareness to remain prominent.
 
