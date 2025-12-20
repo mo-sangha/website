@@ -2,11 +2,7 @@
 	<h2 class="page-header">MO Approach Overview: Dzogchen Path to Liberation</h2>
 
 	<div class="page-content-section gap-6">
-		<h3 class="font-display text-2xl">1st key point: Recognition of the Nature of Mind</h3>
-		<p>
-			Introduction/key point, discerning implications, embracing a larger scope, coming to decisive
-			experience.
-		</p>
+		<h3 class="font-display text-2xl">Phase 1: Revealing the Nature of Mind</h3>
 		<p>
 			Important Points: Introduce practitioners to the nature of mind (rang zhin/svabhavana) as
 			awareness, the inherent Buddha nature present in all experiences.
@@ -35,18 +31,13 @@
 			<ul class="list-disc list-inside">
 				<li>"Pointing Out the Nature of Mind" by Khenpo Dongyal Rinpoche</li>
 				<li>"The Precious Treasury of the Way of Abiding" by Longchenpa</li>
-				<li>“Buddhahood Without Meditation” by Dudjom Lingpa</li>
-				<li>"Kunjed Gyalpo" (The All Good)</li>
+				<li>"Kunjed Gyalpo"</li>
 			</ul>
 		</div>
 	</div>
 
 	<div class="page-content-section gap-6">
-		<h3 class="font-display text-2xl">2nd key point: Familiarity and Sustaining the Recognition</h3>
-		<p>
-			Four divisions: revealing the key point, discerning implications, embracing a larger scope,
-			coming to decisive experience.
-		</p>
+		<h3 class="font-display text-2xl">Phase 2: Familiarizing with the View and Effortlessness</h3>
 		<p>
 			Important Points: Deepen familiarity with the nature of mind and integrate various experiences
 			into pure presence.
@@ -84,11 +75,7 @@
 	</div>
 
 	<div class="page-content-section gap-6">
-		<h3 class="font-display text-2xl">3rd key point: Complete Effortlessness</h3>
-		<p>
-			Four divisions: revealing the key point, discerning implications, embracing a larger scope,
-			coming to decisive experience.
-		</p>
+		<h3 class="font-display text-2xl">Phase 3: Pure Effortlessness</h3>
 		<p>Important Points: A state of complete ease, allowing awareness to remain prominent.</p>
 		<div>
 			<h4 class="font-display text-xl underline">Practices & Approaches:</h4>
@@ -111,7 +98,7 @@
 	</div>
 
 	<div class="page-content-section gap-6">
-		<h3 class="font-display text-2xl">4th/final key point: Complete Liberation</h3>
+		<h3 class="font-display text-2xl">Phase 4: Complete Liberation</h3>
 		<p>
 			Total release from fixation, allowing for pure presence and the dissolution of the conditioned
 			self.
