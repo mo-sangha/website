@@ -24,6 +24,15 @@
 					>
 						Freely available as a PDF.
 					</a>
+					<br />
+					<a
+						href="https://mo-sangha.github.io/book/book.epub"
+						rel="noopener nofollow noreferrer"
+						target="_blank"
+						class="link-hover text-secondary"
+					>
+						For smaller devices, available in EPUB.
+					</a>
 				</p>
 			</div>
 		</div>
