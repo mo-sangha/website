@@ -15,7 +15,7 @@
 			label: 'YouTube',
 			href: 'https://www.youtube.com/@JoinMeditationOnline'
 		},
-		{ icon: faDiscord, color: '#7289da', label: 'Discord', href: 'https://discord.gg/J7NVKYmHNR' }
+		{ icon: faDiscord, color: '#7289da', label: 'Discord', href: 'https://discord.gg/hfw8J7rgVD' }
 	];
 </script>
 
