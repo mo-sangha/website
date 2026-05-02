@@ -8,7 +8,7 @@
 	<div class="page-content-section gap-6">
 		<h3 class="font-display text-2xl">Beyond Recognition: Four Phases of Freedom</h3>
 		<div class="bookgrid">
-			<Photo src="/book-four-phases.svg" url="https://mo-sangha.github.io/book/book.pdf" />
+			<Photo src="/book-four-phases.svg" url="https://mo-sangha.github.io/book/BeyondRecognition.pdf" />
 			<div>
 				<p>The complete path to liberation practiced by the Meditation Online sangha.</p>
 				<p>
@@ -17,7 +17,7 @@
 				</p>
 				<p>
 					<a
-						href="https://mo-sangha.github.io/book/book.pdf"
+						href="https://mo-sangha.github.io/book/BeyondRecognition.pdf"
 						rel="noopener nofollow noreferrer"
 						target="_blank"
 						class="link-hover text-secondary"
@@ -26,7 +26,7 @@
 					</a>
 					<br />
 					<a
-						href="https://mo-sangha.github.io/book/book.epub"
+						href="https://mo-sangha.github.io/book/BeyondRecognition.epub"
 						rel="noopener nofollow noreferrer"
 						target="_blank"
 						class="link-hover text-secondary"
@@ -40,13 +40,13 @@
 		<br/>
 		<h3 class="font-display text-2xl">Atiyoga Dharma Talks</h3>
 		<div class="bookgrid">
-			<Photo src="/book-dharma-talks.jpg" url="https://mo-sangha.github.io/book-transcripts/transcripts.pdf" />
+			<Photo src="/book-dharma-talks.jpg" url="https://mo-sangha.github.io/book-transcripts/AtiyogaDharmaTalks.pdf" />
 			<div>
 				<p>Transcripts of selected Dharma talks on the practice of Dzogchen in the Meditation Online sangha.</p>
 				<p>The talks address useful themes for practitioners, offering guidance on the details of Dzogchen familiarization.<p>
 				<p>
 					<a
-						href="https://mo-sangha.github.io/book-transcripts/transcripts.pdf"
+						href="https://mo-sangha.github.io/book-transcripts/AtiyogaDharmaTalks.pdf"
 						rel="noopener nofollow noreferrer"
 						target="_blank"
 						class="link-hover text-secondary"
@@ -55,7 +55,7 @@
 					</a>
 					<br />
 					<a
-						href="https://mo-sangha.github.io/book-transcripts/transcripts.epub"
+						href="https://mo-sangha.github.io/book-transcripts/AtiyogaDharmaTalks.epub"
 						rel="noopener nofollow noreferrer"
 						target="_blank"
 						class="link-hover text-secondary"
