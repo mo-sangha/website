@@ -29,7 +29,9 @@
 		<div>
 			<h4 class="font-display text-xl underline">Recommended Readings:</h4>
 			<ul class="list-disc list-inside">
-				<li>"The Nature of Mind: The Dzogchen Instructions of Aro Yeshe Jungne" by Patrul Rinpoche</li>
+				<li>
+					"The Nature of Mind: The Dzogchen Instructions of Aro Yeshe Jungne" by Patrul Rinpoche
+				</li>
 				<li>"The Precious Treasury of the Way of Abiding" by Longchenpa</li>
 				<li>"Kunjed Gyalpo"</li>
 			</ul>
@@ -66,7 +68,9 @@
 		<div>
 			<h4 class="font-display text-xl underline">Recommended Readings:</h4>
 			<ul class="list-disc list-inside">
-				<li>"The Nature of Mind: The Dzogchen Instructions of Aro Yeshe Jungne" by Patrul Rinpoche</li>
+				<li>
+					"The Nature of Mind: The Dzogchen Instructions of Aro Yeshe Jungne" by Patrul Rinpoche
+				</li>
 				<li>"The Precious Treasury of the Way of Abiding" by Longchenpa</li>
 				<li>"Buddhahood Without Meditation" by Dudjom Lingpa</li>
 				<li>"Kunjed Gyalpo"</li>
