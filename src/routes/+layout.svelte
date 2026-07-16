@@ -2,7 +2,6 @@
 	import '../app.css';
 	import Navigation from '../components/navigation/Navigation.svelte';
 	import { links } from './navLinks';
-	import { definition as faDiscord } from '@fortawesome/free-brands-svg-icons/faDiscord';
 	import { definition as faYoutube } from '@fortawesome/free-brands-svg-icons/faYoutube';
 	import Icon from '../components/Icon.svelte';
 	import DonateButton from '../components/DonateButton.svelte';
@@ -14,8 +13,7 @@
 			color: '#CD201F',
 			label: 'YouTube',
 			href: 'https://www.youtube.com/@JoinMeditationOnline'
-		},
-		{ icon: faDiscord, color: '#7289da', label: 'Discord', href: 'https://discord.gg/hfw8J7rgVD' }
+		}
 	];
 </script>
 
