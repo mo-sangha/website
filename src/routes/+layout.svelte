@@ -2,6 +2,7 @@
 	import '../app.css';
 	import Navigation from '../components/navigation/Navigation.svelte';
 	import { links } from './navLinks';
+	import { definition as faComments } from '@fortawesome/free-solid-svg-icons/faComments';
 	import { definition as faYoutube } from '@fortawesome/free-brands-svg-icons/faYoutube';
 	import Icon from '../components/Icon.svelte';
 	import DonateButton from '../components/DonateButton.svelte';
@@ -13,7 +14,8 @@
 			color: '#CD201F',
 			label: 'YouTube',
 			href: 'https://www.youtube.com/@JoinMeditationOnline'
-		}
+		},
+		{ icon: faComments, color: '#7289da', label: 'Sangha Chat', href: 'https://fluxer.gg/7xLcaXH5' }
 	];
 </script>
 
