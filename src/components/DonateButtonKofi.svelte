@@ -36,7 +36,7 @@
                background-position: -17px center; 
                background-repeat: no-repeat;"
 	>
-		<span class="z-10 pl-1 whitespace-nowrap">Card / CashApp</span>
+		<span class="z-10 pl-1 whitespace-nowrap">Dana via Kofi</span>
 		<Icon icon={faChevronRight} class="z-10" dimension="0.9rem" />
 	</a>
 {/if}
