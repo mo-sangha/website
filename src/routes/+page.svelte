@@ -42,12 +42,6 @@
 						ET.
 					</li>
 					<li>Established 2013.</li>
-					<li>
-						Under the guidance of <a
-							class="link-hover text-secondary"
-							href="/about/lama-dawai-gocha">Lama Dawai Gocha</a
-						>.
-					</li>
 				</ul>
 			</div>
 			<a
