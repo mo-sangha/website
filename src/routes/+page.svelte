@@ -45,7 +45,7 @@
 				</ul>
 			</div>
 			<a
-				href="https://meet.jit.si/MeditationOnline"
+				href="/join"
 				rel="noopener nofollow noreferrer"
 				target="_blank"
 				class="btn btn-primary w-full max-w-lg">Click here to join</a
