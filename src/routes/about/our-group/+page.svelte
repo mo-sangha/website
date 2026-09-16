@@ -22,17 +22,6 @@
 			traditional methodology.
 		</p>
 
-		<p>
-			The lineage and transmission is very important with practices like Dzogchen, Mahamudra and
-			Zen. Our group is under the guidance of <a
-				class="link-hover text-secondary"
-				href="/about/lama-dawai-gocha">Lama Dawai Gocha</a
-			>, who has gotten empowerments, transmission, and pointing out instructions from living
-			recognized masters. Following your teacher's advice and doing any preliminary practices is
-			recommended. If the practitioner is ready then they can begin Dzogchen which, in a modern
-			sense, can start with an introduction to the nature of mind.
-		</p>
-
 		<p>Please come and go as you feel, there are no rules about attendance.</p>
 	</div>
 </div>

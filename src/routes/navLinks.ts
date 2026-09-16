@@ -7,15 +7,12 @@ export const links: NavLink[] = [
 		type: 'branch',
 		children: [
 			{ name: 'Get In Touch', href: '/contact/get-in-touch', type: 'leaf' },
-			{ name: 'Giving (Dana)', href: '/contact/giving', type: 'leaf' }
 		]
 	},
 	{
 		name: 'About',
 		type: 'branch',
 		children: [
-			{ name: 'Lama Dawai Gocha', href: '/about/lama-dawai-gocha', type: 'leaf' },
-			{ name: 'Our Lineage', href: '/about/our-lineage', type: 'leaf' },
 			{ name: 'Our Group', href: '/about/our-group', type: 'leaf' }
 		]
 	}
