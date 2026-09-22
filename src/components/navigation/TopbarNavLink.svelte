@@ -14,7 +14,7 @@
 			{#each link.children as child}
 				<a
 					href={child.href}
-					class="btn btn-ghost hover:bg-base-300 text-primary btn-sm justify-start"
+					class="btn btn-ghost bg-neutral hover:bg-accent text-secondary btn-sm justify-start"
 				>
 					{child.name}
 				</a>

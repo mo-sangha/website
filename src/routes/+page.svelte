@@ -11,9 +11,9 @@
 		<div class="flex flex-col gap-4 py-16 items-center">
 			<div class="flex flex-col gap-8 items-center">
 				<img
-					class="w-24 md:w-36 lg:w-48 aspect-square max-w-[16rem]"
-					alt="Dzogchen Symbol"
-					src={iconLarge}
+					class="w-36 md:w-48 lg:w-64"
+					alt="Medicine Buddha and Butter Lamp"
+					src="/butterlamp-large.jpg"
 				/>
 				<h1 class="text-3xl md:text-3xl lg:text-5xl font-bold font-display">
 					Live Meditation Sessions
@@ -48,7 +48,7 @@
 				href="/join"
 				rel="noopener nofollow noreferrer"
 				target="_blank"
-				class="btn btn-primary w-full max-w-lg">Click here to join</a
+				class="btn btn-primary text-secondary bg-neutral hover:bg-accent w-full max-w-lg">Click here to join</a
 			>
 			<Countdown />
 		</div>

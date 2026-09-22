@@ -29,13 +29,11 @@
 	<!-- Footer -->
 	<footer
 		class="footer p-10 mt-10 bg-gradient-to-b from-base-100 to-base-300 text-neutral-content p-gutter"
+		style="color:white"
 	>
 		<nav class="flex flex-row justify-between w-full">
 			<div class="flex flex-col">
 				<header class="footer-title">Site Map</header>
-				<!-- <a href="/" class="link link-hover">Home</a>
-				<a href="/tools" class="link link-hover">Tools</a>
-				<a href="/about" class="link link-hover">About</a> -->
 
 				{#each links as link}
 					{#if 'children' in link}
