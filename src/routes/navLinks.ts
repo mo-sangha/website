@@ -7,6 +7,7 @@ export const links: NavLink[] = [
 		type: 'branch',
 		children: [
 			{ name: 'Get In Touch', href: '/contact/get-in-touch', type: 'leaf' },
+			{ name: 'Giving (Dana)', href: '/contact/giving', type: 'leaf' }
 		]
 	},
 	{

@@ -31,9 +31,9 @@
                shadow-md shadow-slate-950/30 hover:shadow-slate-950/50
                fill-primary-content hover:fill-white
                transition-all duration-300"
-		style="background-image: url({iconSmall}); 
+		style="background-image: url(/apple-touch-icon.png);
                background-size: 65px 65px; 
-               background-position: -17px center; 
+               background-position: -8px -24px;
                background-repeat: no-repeat;"
 	>
 		<span class="z-10 pl-1 whitespace-nowrap">Dana via Kofi</span>

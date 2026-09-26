@@ -5,6 +5,9 @@
 	import { definition as faComments } from '@fortawesome/free-solid-svg-icons/faComments';
 	import { definition as faYoutube } from '@fortawesome/free-brands-svg-icons/faYoutube';
 	import Icon from '../components/Icon.svelte';
+	import DonateButton from '../components/DonateButton.svelte';
+  import DonateButtonKofi from '../components/DonateButtonKofi.svelte';
+
 
 	const socialIcons = [
 		{
@@ -61,6 +64,11 @@
 						{def.label}
 					</a>
 				{/each}
+			</div>
+			<div class="flex flex-col gap-1">
+				<header class="footer-title">Donate</header>
+				<DonateButton />
+				<DonateButtonKofi />
 			</div>
 		</nav>
 	</footer>

@@ -12,8 +12,7 @@
 			it's considered a profound connection.
 		</p>
 		<p>
-			<a href="/about/lama-dawai-gocha" class="link link-hover text-secondary">Lama Dawai</a>
-			and the group will never ask for donations or advertise the group in any way. This means that people
+			The group will never ask for donations or advertise in any way. This means that people
 			naturally find the group and naturally discover this offering page, which in turn reflects your
 			genuine kindness.
 		</p>
