@@ -16,9 +16,9 @@
 		<p>
 			This group is intended to be all inclusive and modern in the sense of creating a new kind of
 			space. Every person can have a voice and a kind of ownership within the group. Traditionally
-			it's known that every sentient being is ultimately a Buddha so in that sense we can empower
+			it's known that every sentient being is ultimately a Buddha, so in that sense we can empower
 			one another with minimum use of hierarchy while still preserving lineage and transmission. A
-			grass roots, very human, and accessible approach presented in harmony with modern science and
+			grassroots, very human, and accessible approach presented in harmony with modern science and
 			traditional methodology.
 		</p>
 
