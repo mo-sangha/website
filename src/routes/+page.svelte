@@ -45,10 +45,10 @@
 				</ul>
 			</div>
 			<a
-				href="/join"
+				href="mailto:dawaigocha108@gmail.com?subject=Link%20Request"
 				rel="noopener nofollow noreferrer"
 				target="_blank"
-				class="btn btn-primary text-secondary bg-neutral hover:bg-accent w-full max-w-lg">Click here to join</a
+				class="btn btn-primary text-secondary bg-neutral hover:bg-accent w-full max-w-lg">Click here to request private link</a
 			>
 			<Countdown />
 		</div>
