@@ -7,8 +7,8 @@
 	<div class="page-content-section">
 		<p>
 			We are descended from the authentic Tibetan Buddhist Nyingma Palyul lineage. Our group's main
-			teacher, <a class="link-hover text-secondary" href="/about/lama-dawai-gocha"
-				>Lama Dawai Gocha</a
+			teacher, <a class="link-hover text-secondary" href="/about/dawai-gocha"
+				>Dawai Gocha</a
 			>, has practiced for more than 20 years under the guidance of many great masters.
 		</p>
 
