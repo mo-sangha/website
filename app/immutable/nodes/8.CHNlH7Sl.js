@@ -1,4 +1,4 @@
 import{f as l,a as f}from"../chunks/BBsFk_WJ.js";import"../chunks/9t1ErYpo.js";import{c as a,s as n,a as o}from"../chunks/B6_Tr9r1.js";import{D as d,a as c}from"../chunks/fAKb4Sb-.js";var u=l(`<div class="h-full w-full flex flex-col gap-8 md:gap-16"><h2 class="page-header">Making a Profound Connection</h2> <div class="page-content-section"><p>We will always give these teachings as a gift. If you feel like giving a gift in return, then
 			it's considered a profound connection.</p> <p>The group will never ask for donations or advertise in any way. This means that people
-			naturally find the group and naturally discover this offering page, which in turn reflects your
-			genuine kindness.</p> <p>So thank you. May you truly be free.</p> <p class="flex justify-center"><!> &nbsp;&nbsp;&nbsp; <!></p></div></div>`);function y(r){var e=u(),i=n(a(e),2),t=n(a(i),6),s=a(t);d(s,{});var p=n(s,2);c(p,{}),o(t),o(i),o(e),f(r,e)}export{y as component};
+			naturally find the group and naturally discover this offering page, which in turn reflects
+			your genuine kindness.</p> <p>So thank you. May you truly be free.</p> <p class="flex justify-center"><!> &nbsp;&nbsp;&nbsp; <!></p></div></div>`);function y(r){var e=u(),i=n(a(e),2),t=n(a(i),6),s=a(t);d(s,{});var p=n(s,2);c(p,{}),o(t),o(i),o(e),f(r,e)}export{y as component};
