@@ -13,8 +13,8 @@
 		</p>
 		<p>
 			The group will never ask for donations or advertise in any way. This means that people
-			naturally find the group and naturally discover this offering page, which in turn reflects your
-			genuine kindness.
+			naturally find the group and naturally discover this offering page, which in turn reflects
+			your genuine kindness.
 		</p>
 		<p>So thank you. May you truly be free.</p>
 		<p class="flex justify-center">

@@ -48,13 +48,10 @@
 				url="https://mo-sangha.github.io/book-transcripts/DharmaTalks.pdf"
 			/>
 			<div>
+				<p>Transcripts of selected Dharma talks on the practice in the Meditation Online sangha.</p>
 				<p>
-					Transcripts of selected Dharma talks on the practice in the Meditation Online
-					sangha.
-				</p>
-				<p>
-					The talks address useful themes for practitioners, especially offering guidance on the details of
-					familiarization.
+					The talks address useful themes for practitioners, especially offering guidance on the
+					details of familiarization.
 				</p>
 				<p></p>
 				<p>

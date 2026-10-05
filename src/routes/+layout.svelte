@@ -6,8 +6,7 @@
 	import { definition as faYoutube } from '@fortawesome/free-brands-svg-icons/faYoutube';
 	import Icon from '../components/Icon.svelte';
 	import DonateButton from '../components/DonateButton.svelte';
-  import DonateButtonKofi from '../components/DonateButtonKofi.svelte';
-
+	import DonateButtonKofi from '../components/DonateButtonKofi.svelte';
 
 	const socialIcons = [
 		{
